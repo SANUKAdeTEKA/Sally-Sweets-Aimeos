@@ -1,0 +1,31 @@
+{
+	"projectName": "Aimeos GrapesJS extension",
+	"licenseText": "LGPLv3, http://www.gnu.org/licenses/lgpl.html",
+	"pkgs": [{
+		"name": "Aimeos GrapesJS CSS",
+		"file": "index-css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "grapesjs.css",
+			"path": "themes/admin/jqadm/"
+		},{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "Aimeos GrapesJS JS",
+		"file": "index-js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "grapesjs.js",
+			"path": "themes/admin/jqadm/"
+		},{
+			"text": "grapesjs-ext.js",
+			"path": "themes/admin/jqadm/"
+		},{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}

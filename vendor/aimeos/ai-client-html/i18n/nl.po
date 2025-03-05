@@ -1,0 +1,974 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Aimeos, 2017
+# Aimeos, 2017
+# Bram Verhaegh <bram@beech.it>, 2015
+# CROB Support <support@crob.nl>, 2018
+# Kevin Peters <kevin@popkorn.be>, 2018
+# Klaas Runia <info@sennik.nl>, 2015
+# Maikel Slot <maikelslot@msdesigns.nl>, 2017
+# Maurice Lourens <mlourens@gmail.com>, 2015
+# Yves Vermeulen <tmastar@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: aimeos-core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-12 19:06+0200\n"
+"PO-Revision-Date: 2015-07-09 20:33+0000\n"
+"Last-Translator: Yves Vermeulen <tmastar@gmail.com>, 2015\n"
+"Language-Team: Dutch (http://app.transifex.com/aimeos/aimeos-core/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, php-format
+msgid "%1$d article"
+msgid_plural "%1$d articles"
+msgstr[0] "%1$d artikelen"
+msgstr[1] "%1$d artikelen"
+
+#, php-format
+msgid "%1$d review"
+msgid_plural "%1$d reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#, php-format
+msgid ""
+"%1$s\n"
+"%2$s %3$s %4$s %5$s\n"
+"%6$s %7$s\n"
+"%8$s\n"
+"%9$s %10$s\n"
+"%11$s\n"
+"%12$s\n"
+"%13$s\n"
+"%14$s\n"
+"%15$s\n"
+"%16$s\n"
+"%17$s\n"
+"%18$s\n"
+msgstr "%1$s\n%2$s %3$s %4$s %5$s\n%6$s %7$s\n%8$s\n%9$s %10$s\n%11$s\n%12$s\n%13$s\n%14$s\n%15$s\n%16$s\n%17$s\n%18$s\n"
+
+#, php-format
+msgid ""
+"%1$s\n"
+"%2$s %3$s %4$s %5$s\n"
+"%6$s %7$s\n"
+"%8$s\n"
+"%9$s %10$s\n"
+"%11$s\n"
+"%12$s\n"
+"%13$s\n"
+"%14$s\n"
+"%15$s\n"
+"%16$s\n"
+"%17$s\n"
+"%18$s\n"
+"%19$s\n"
+msgstr ""
+
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#, php-format
+msgid "%1$s %2$s off"
+msgstr "%1$s %2$s off"
+
+#, php-format
+msgid "%1$s (%4$s%2$s%3$s)"
+msgstr ""
+
+#, php-format
+msgid "%1$s article"
+msgid_plural "%1$s articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#, php-format
+msgid "%1$s%3$s + %2$s%3$s"
+msgstr "%1$s%3$s + %2$s%3$s"
+
+msgid "(opens in new window)"
+msgstr ""
+
+#, php-format
+msgid "+ %1$s %2$s"
+msgstr ""
+
+#, php-format
+msgid "+ %1$s%% %2$s"
+msgstr ""
+
+#, php-format
+msgid "+ %1$s%% VAT"
+msgstr "+ %1$s%% BTW"
+
+msgid "+1 123 456 7890"
+msgstr "+1 123 456 7890"
+
+#, php-format
+msgid "-%1$s%%"
+msgstr "-%1$s%%"
+
+msgid "A non-recoverable error occured"
+msgstr ""
+
+msgid "Add"
+msgstr "Toevoegen"
+
+msgid "Add billing address"
+msgstr ""
+
+msgid "Add delivery address"
+msgstr ""
+
+msgid "Add to basket"
+msgstr "Toevoegen aan winkelmandje"
+
+msgid "Additional"
+msgstr "Meer"
+
+msgid "Additional 2"
+msgstr "Meer 2"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "Article"
+msgstr ""
+
+msgid "Article no."
+msgstr ""
+
+#, php-format
+msgid "At least one billing address part is missing or invalid"
+msgstr "Tenminste één factuuradres is niet beschikbaar of niet juist ingevuld."
+
+#, php-format
+msgid "At least one delivery address part is missing or invalid"
+msgstr "Tenminste één leveringsadres is niet beschikbaar of niet juist ingevuld."
+
+#, php-format
+msgid "At least one payment address part is missing or invalid"
+msgstr ""
+
+msgid "At least one product couldn't be added to the basket."
+msgstr ""
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Basket"
+msgstr "Mandje"
+
+msgid "Basket details"
+msgstr ""
+
+msgid "Basket name"
+msgstr ""
+
+msgid "Basket saved sucessfully"
+msgstr ""
+
+msgid "Billing address"
+msgstr "Factuur adres"
+
+#, php-format
+msgid "Billing address part \"%1$s\" is invalid"
+msgstr "Factuuradres deel \"%1$s\" is onjuist"
+
+#, php-format
+msgid "Billing address part \"%1$s\" is missing"
+msgstr "Factuuradres deel \"%1$s\" ontbreekt"
+
+msgid "Birthday"
+msgstr "Geboortedatum"
+
+msgid "Breadcrumb navigation"
+msgstr ""
+
+msgid "Bulk order"
+msgstr ""
+
+msgid "Bundled products"
+msgstr "Gebundelde producten"
+
+msgid "Buy now"
+msgstr "Koop nu"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Change"
+msgstr "Aanpassen"
+
+msgid "Change address"
+msgstr ""
+
+msgid "Change billing address"
+msgstr ""
+
+msgid "Change coupons"
+msgstr ""
+
+msgid "Change delivery"
+msgstr ""
+
+msgid "Change delivery address"
+msgstr ""
+
+msgid "Change payment"
+msgstr "Pas betaling aan"
+
+msgid "Change products"
+msgstr ""
+
+msgid "Characteristics"
+msgstr "Karakteristieken"
+
+msgid "Checkout"
+msgstr "Afrekenen"
+
+msgid "City"
+msgstr "Stad"
+
+#, php-format
+msgid "Class \"%1$s\" not found"
+msgstr "Class \"%1$s\" niet gevonden"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Company"
+msgstr "Bedrijf"
+
+msgid "Confirmation"
+msgstr "Bevestiging"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Coupon codes"
+msgstr "Coupon code"
+
+msgid "Coupons"
+msgstr "Coupon"
+
+msgid "Create a customer account for me"
+msgstr "Maak een klanten account voor me aan"
+
+msgid "Created"
+msgstr "Aangemaakt"
+
+msgid "Customer account"
+msgstr "Klanten account"
+
+msgid "Decrease"
+msgstr ""
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Delete item"
+msgstr ""
+
+msgid "Delivery"
+msgstr "Bezorging"
+
+msgid "Delivery address"
+msgstr "Bezorg adres"
+
+#, php-format
+msgid "Delivery address deleted successfully"
+msgstr ""
+
+#, php-format
+msgid "Delivery address part \"%1$s\" is invalid"
+msgstr "Leveringsadres deel \"%1$s\" is onjuist"
+
+#, php-format
+msgid "Delivery address part \"%1$s\" is missing"
+msgstr "Leveringsadres deel \"%1$s\" ontbreekt"
+
+msgid "Delivery within"
+msgstr "Levering binnen"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Don't store address"
+msgstr ""
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "E-Mail"
+msgstr "E-mail"
+
+msgid "End date"
+msgstr "Eind datum"
+
+msgid "Favorite products"
+msgstr "Favoriete producten"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Fields with an * are mandatory"
+msgstr "Velden met een * zijn verplicht"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "First"
+msgstr "Eerste"
+
+msgid "First name"
+msgstr "Voornaam"
+
+msgid "Found products"
+msgstr ""
+
+msgid "GB999999973"
+msgstr "NL999999973"
+
+msgid "Go to page"
+msgstr ""
+
+msgid "Grid view"
+msgstr ""
+
+msgid "HH:mm"
+msgstr ""
+
+msgid "Highest price"
+msgstr ""
+
+#, php-format
+msgid ""
+"I accept the <a href=\"%1$s\" target=\"_blank\" title=\"terms and conditions"
+" (opens in new tab)\">terms and conditions</a>, <a href=\"%2$s\" "
+"target=\"_blank\" title=\"privacy policy (opens in new tab)\">privacy "
+"policy</a> and <a href=\"%3$s\" target=\"_blank\" title=\"cancellation "
+"policy (opens in new tab)\">cancellation policy</a>"
+msgstr ""
+
+#, php-format
+msgid ""
+"I accept the <a href=\"%1$s\" target=\"_blank\" title=\"terms and "
+"conditions\" alt=\"terms and conditions\">terms and conditions</a>, <a "
+"href=\"%2$s\" target=\"_blank\" title=\"privacy policy\" alt=\"privacy "
+"policy\">privacy policy</a> and <a href=\"%3$s\" target=\"_blank\" "
+"title=\"cancellation policy\" alt=\"cancellation policy\">cancellation "
+"policy</a>"
+msgstr "Ik accepteer <a href=\"%1$s\" target=\"_blank\" title=\"voorwaarden en condities\" alt=\"voorwaarden en condities\">voorwaarden en condities</a> en <a href=\"%2$s\" target=\"_blank\" title=\"privacy policy\" alt=\"privacy policy\">privacy policy</a> en <a href=\"%3$s\" target=\"_blank\" title=\"cancellation policy\" alt=\"cancellation policy\"> annuleringsvoorwaarden </a>"
+
+msgid "If back in stock"
+msgstr "Wanneer weer op voorraad"
+
+msgid "If price decreases"
+msgstr "Als de prijs daalt"
+
+#, php-format
+msgid "Incl. %1$s%% %2$s"
+msgstr ""
+
+#, php-format
+msgid "Incl. %1$s%% VAT"
+msgstr "Incl. %1$s%% BTW"
+
+msgid "Included rebates"
+msgstr "Kortingen zijn verrekend"
+
+msgid "Increase"
+msgstr ""
+
+msgid "Interval"
+msgstr "Interval"
+
+#, php-format
+msgid "Invalid characters in client name \"%1$s\""
+msgstr "Niet- toegestane karakters in klant naam  \"%1$s\""
+
+#, php-format
+msgid "Invalid class name \"%1$s\""
+msgstr "Niet toegestane class naam \"%1$s\""
+
+#, php-format
+msgid "Invalid domain \"%1$s\""
+msgstr "Ongeldig domein \"%1$s\""
+
+msgid "Invoice"
+msgstr "Factuur"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Last"
+msgstr "Laatste"
+
+msgid "Last name"
+msgstr "Achternaam"
+
+msgid "Last seen"
+msgstr "Laatst gezien"
+
+msgid "Latest"
+msgstr "Laatste"
+
+msgid "Less"
+msgstr ""
+
+msgid "List view"
+msgstr ""
+
+msgid "Lowest price"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Mobile number"
+msgstr ""
+
+msgid "More"
+msgstr "Meer"
+
+msgid "More reviews"
+msgstr ""
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "New"
+msgstr "Nieuw"
+
+msgid "New delivery address"
+msgstr ""
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "Next order"
+msgstr "Volgende order"
+
+#, php-format
+msgid ""
+"No articles found for <span class=\"searchstring\">\"%1$s\"</span>. Please "
+"try again with a different keyword."
+msgstr "Geen artikelen gevonden voor <span class=\"searchstring\">\"%1$s\"</span>. Probeer het aub opnieuw met een ander zoekwoord."
+
+msgid "No order ID available in session"
+msgstr ""
+
+#, php-format
+msgid "No view available"
+msgstr "Geen weergave beschikbaar"
+
+msgid "One month"
+msgstr "Een maand"
+
+msgid "One week"
+msgstr "Een week"
+
+msgid "Open submenu"
+msgstr ""
+
+msgid "Order ID"
+msgstr "Aankoop ID"
+
+msgid "Order details"
+msgstr "Aankoop details"
+
+msgid "Order history"
+msgstr "Aankoop geschiedenis "
+
+msgid "Order status"
+msgstr "Order status"
+
+msgid "Other customers also bought"
+msgstr "Andere klanten kochten ook"
+
+#, php-format
+msgid "Page %1$d of %2$d"
+msgstr "Pagina %1$d van %2$d"
+
+msgid "Pay now"
+msgstr "Nu afrekenen"
+
+msgid "Payment"
+msgstr "Betaling"
+
+msgid "Payment costs"
+msgstr "Betalingskosten"
+
+msgid "Payment status"
+msgstr "Betalings status"
+
+msgid "Percentage"
+msgstr ""
+
+msgid "Pin product"
+msgstr ""
+
+msgid "Pinned products"
+msgstr "Vastgelegde producten"
+
+msgid "Please accept the terms and conditions"
+msgstr "Accepteer aub onze voorwaarden en condities"
+
+msgid "Please check your order"
+msgstr "Controleer aub uw order"
+
+msgid "Please choose your delivery method"
+msgstr "Kies de gewenste leveringsmethode"
+
+msgid "Please choose your payment method"
+msgstr "Kies de gewenste betalingsmethode"
+
+msgid "Please enter at least three characters"
+msgstr "Voer minimaal 3 karakters in"
+
+msgid "Please enter your payment details"
+msgstr "Voer uw betalingsgegevens in"
+
+msgid "Please select"
+msgstr "Selecteer"
+
+msgid "Postal code"
+msgstr "Postcode"
+
+msgid "Previous"
+msgstr "Vorige"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Price filter"
+msgstr ""
+
+msgid "Price range"
+msgstr ""
+
+msgid "Proceed"
+msgstr "Doorgaan"
+
+msgid "Processing the payment failed"
+msgstr "Het verwerken van uw betaling is mislukt"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "Product actions"
+msgstr ""
+
+msgid "Product attributes"
+msgstr ""
+
+msgid "Product categories"
+msgstr ""
+
+msgid "Product characteristics"
+msgstr ""
+
+msgid "Product description"
+msgstr ""
+
+msgid "Product downloads"
+msgstr ""
+
+msgid "Product filters"
+msgstr ""
+
+msgid "Product image"
+msgstr ""
+
+msgid "Product information"
+msgstr ""
+
+msgid "Product price"
+msgstr "Product prijs"
+
+msgid "Product reviews"
+msgstr ""
+
+msgid "Product search"
+msgstr ""
+
+msgid "Products you might be also interested in"
+msgstr "Producten waar u wellicht ook in bent geïnteresseerd"
+
+msgid "Qty"
+msgstr "Aantal"
+
+msgid "Quantity"
+msgstr "Aantal"
+
+msgid "Rating"
+msgstr ""
+
+msgid "Reference"
+msgstr "Referentie"
+
+msgid "Relevance"
+msgstr "Relevantie"
+
+msgid "Remove"
+msgstr ""
+
+msgid "Reset"
+msgstr "Reset"
+
+#, php-format
+msgid "Result for \"%1$s\""
+msgstr "Resultaat voor \"%1$s\""
+
+msgid "Reviews"
+msgstr ""
+
+msgid "SKU or article name"
+msgstr ""
+
+msgid "Sale"
+msgstr ""
+
+msgid "Salutation"
+msgstr "Aanhef"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Saved basket removed sucessfully"
+msgstr ""
+
+msgid "Saved baskets"
+msgstr ""
+
+msgid "Search"
+msgstr "Zoeken"
+
+#, php-format
+msgid "Search result for <span class=\"searchstring\">\"%1$s\"</span> (%2$d article)"
+msgid_plural ""
+"Search result for <span class=\"searchstring\">\"%1$s\"</span> (%2$d "
+"articles)"
+msgstr[0] "Zoekresultaat voor <span class=\"searchstring\">\"%1$s\"</span> (%2$d artikelen)"
+msgstr[1] "Zoekresultaat voor <span class=\"searchstring\">\"%1$s\"</span> (%2$d artikelen)"
+
+msgid "Select country"
+msgstr "Selecteer land"
+
+msgid "Select currency"
+msgstr "Selecteer valuta"
+
+msgid "Select language"
+msgstr "Selecteer taal"
+
+msgid "Select salutation"
+msgstr "Selecteer aanhef"
+
+msgid "Select state"
+msgstr "Selecteer staat"
+
+msgid "Share"
+msgstr "Delen"
+
+msgid "Shipping"
+msgstr "Bezorging"
+
+msgid "Show"
+msgstr "Toon"
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Sort by:"
+msgstr "Sortering"
+
+msgid "Stars"
+msgstr ""
+
+msgid "State"
+msgstr "Provincie / Staat"
+
+msgid "Stock"
+msgstr "Voorraad"
+
+#, php-format
+msgid "Stock: %1$s, %2$s"
+msgstr "Voorraad: %1$s, %2$s"
+
+#, php-format
+msgid "Stock: %1$s, %2$s, back on %3$s"
+msgstr "Voorraad: %1$s, %2$s, terug op %3$s"
+
+msgid "Street"
+msgstr "Straat"
+
+msgid "Sub-total"
+msgstr "Subtotaal"
+
+msgid "Submit"
+msgstr ""
+
+msgid "Subscription ID"
+msgstr "Inschrijving ID"
+
+msgid "Subscription details"
+msgstr "Inschrijvingsdetails"
+
+msgid "Subscriptions"
+msgstr "Inschrijvingen"
+
+msgid "Suggested products"
+msgstr "Aanbevolen producten"
+
+msgid "Sum"
+msgstr "Totaal"
+
+msgid "Supplier information"
+msgstr ""
+
+msgid "Supplier list"
+msgstr ""
+
+msgid "Suppliers"
+msgstr "Leveranciers"
+
+msgid "Take a look"
+msgstr ""
+
+msgid "Telephone"
+msgstr "Telefoon"
+
+msgid "Terms and conditions"
+msgstr "Voorwaarden en condities"
+
+msgid ""
+"Thank you for your order and authorizing the payment.\n"
+"An e-mail with the order details will be sent to you within the next few minutes."
+msgstr "Bedankt voor uw order en uw machtiging om de betaling van uw rekening af te schrijven. Binnen enkele minuten ontvangt u van ons een email met de gegevens van uw order."
+
+msgid ""
+"Thank you for your order.\n"
+"We received your payment and an e-mail with the order details will be sent to you within the next few minutes."
+msgstr "Bedankt voor uw order.\nWe hebben uw betaling ontvangen en sturen u binnen enkele minuten een email met de order gegevens."
+
+msgid "Thank you for your review!"
+msgstr ""
+
+msgid ""
+"The order was canceled.\n"
+"Do you wish to retry your order?"
+msgstr "U hebt uw order geannuleerd. Wilt u uw order opnieuw plaatsen?"
+
+msgid ""
+"The payment confirmation for your order is still pending.\n"
+"You will get an e-mail as soon as the payment is authorized."
+msgstr "De betaling voor uw bestelling staat nog in wacht. U ontvangt een e-mail zodra de betaling is ontvangen."
+
+msgid "Three month"
+msgstr "Drie maanden"
+
+msgid "Time frame"
+msgstr "Tijdslot"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Toggle fullscreen"
+msgstr "Full screen activeren"
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Try again"
+msgstr "Probeer opnieuw"
+
+msgid "Two weeks"
+msgstr "Twee weken"
+
+#, php-format
+msgid "Unable to create an account: %1$s"
+msgstr "Account %1$s aanmaken niet mogelijk"
+
+#, php-format
+msgid "Unable to save address for customer \"%1$s\": %2$s"
+msgstr "Kon het adres van de klant niet opslaan  \"%1$s\": %2$s"
+
+msgid ""
+"Unfortunately, the payment for your order was refused.\n"
+"Do you wish to retry?"
+msgstr "Helaas is de betaling van uw bestelling geweigerd. Wil je opnieuw proberen?"
+
+msgid "Update"
+msgstr "Bijwerken"
+
+msgid "Variant"
+msgstr ""
+
+msgid "Vat ID"
+msgstr "BTW"
+
+msgid "Vendor response"
+msgstr ""
+
+msgid "Watch"
+msgstr "Bekijk"
+
+msgid "Watched products"
+msgstr "Bekeken producten"
+
+msgid "Web site"
+msgstr "Website"
+
+msgid "What do you think about the product"
+msgstr ""
+
+msgid "Y-m-d"
+msgstr "Y-m-d"
+
+msgid "YYYY-MM-DD"
+msgstr ""
+
+msgid "YYYY-MM-DD HH:mm"
+msgstr ""
+
+msgid "You are here:"
+msgstr "U bent hier:"
+
+#, php-format
+msgid "You can only save up to %1$s products as favorites"
+msgstr ""
+
+#, php-format
+msgid "You can only watch up to %1$s products"
+msgstr ""
+
+msgid "You must log in first"
+msgstr ""
+
+msgid "You will now be forwarded to the next step"
+msgstr "Je zal nu doorgestuurd worden naar de volgende stap"
+
+msgid "Your choice"
+msgstr "Uw keuze"
+
+msgid "Your comment"
+msgstr "Jouw reactie"
+
+msgid "Your rating"
+msgstr ""
+
+msgid "Your reference"
+msgstr ""
+
+msgid "Your reference number"
+msgstr ""
+
+msgid "Your review"
+msgstr ""
+
+msgid "Zoom in/out"
+msgstr "In-/uitzoomen"
+
+#, php-format
+msgid "address"
+msgstr "adres"
+
+#, php-format
+msgid "delivery"
+msgstr "Bezorging"
+
+msgid "favorite"
+msgstr "favoriet"
+
+#, php-format
+msgid "from %1$s"
+msgstr "van %1$s"
+
+msgid "like billing address"
+msgstr "Gelijk aan factuuradres"
+
+msgid "new address"
+msgstr "Nieuw adres"
+
+msgid "none"
+msgstr "geen"
+
+msgid "on request"
+msgstr ""
+
+#, php-format
+msgid "payment"
+msgstr "Betaling"
+
+msgid "pin"
+msgstr "pin"
+
+msgid "price:default"
+msgstr ""
+
+#, php-format
+msgid "process"
+msgstr "proces"
+
+msgid "stock-high"
+msgstr "Grote voorraad"
+
+msgid "stock-low"
+msgstr "Lage voorraad"
+
+msgid "stock-out"
+msgstr "Geen voorraad"
+
+msgid "stock-unlimited"
+msgstr "Onbeperkte voorraad"
+
+#, php-format
+msgid "summary"
+msgstr "samenvatting"
+
+msgid "watch"
+msgstr "Bekijken"
+
+msgid "▲ Name"
+msgstr "▲ Naam"
+
+msgid "▲ Price"
+msgstr "▲ Prijs"
+
+msgid "▶"
+msgstr "▶"
+
+msgid "▶▶"
+msgstr "▶▶"
+
+msgid "▼ Name"
+msgstr "▼ Naam"
+
+msgid "▼ Price"
+msgstr "▼ Prijs"
+
+msgid "◀"
+msgstr "◀"
+
+msgid "◀◀"
+msgstr "◀◀"

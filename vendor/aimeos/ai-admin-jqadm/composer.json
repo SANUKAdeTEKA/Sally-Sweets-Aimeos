@@ -1,0 +1,40 @@
+{
+	"name": "aimeos/ai-admin-jqadm",
+	"description": "Aimeos VueJS+Bootstrap admin backend",
+	"keywords": ["aimeos", "extension", "admin", "Vue.js", "Bootstrap"],
+	"homepage": "https://aimeos.org/",
+	"type": "aimeos-extension",
+	"license": "LGPL-3.0-or-later",
+	"support": {
+		"source": "https://github.com/aimeos/ai-admin-jqadm",
+		"issues": "https://github.com/aimeos/ai-admin-jqadm/issues",
+		"forum": "https://aimeos.org/help",
+		"wiki": "https://aimeos.org/docs"
+	},
+	"prefer-stable": true,
+	"minimum-stability": "dev",
+	"require": {
+		"php": "^8.0.11",
+		"aimeos/aimeos-core": "2024.04.*"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "~10.0||~11.0",
+		"nyholm/psr7-server": "~1.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Aimeos\\": "src"
+		},
+		"classmap": [
+			"src"
+		]
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"Aimeos\\": "tests"
+		},
+		"classmap": [
+			"tests"
+		]
+	}
+}

@@ -1,0 +1,40 @@
+<?php
+
+/**
+ * @license LGPLv3, http://opensource.org/licenses/LGPL-3.0
+ * @copyright Aimeos (aimeos.org), 2018-2024
+ */
+
+
+$enc = $this->encoder();
+$types = $this->get( 'propertyTypes', map() )->col( 'media.property.type.label', 'media.property.type.code' )->toArray();
+
+
+?>
+<div v-show="element['_ext']" class="col-xl-12 secondary">
+
+	<?php if( !empty( $types ) ) : ?>
+
+		<property-table
+			v-bind:index="index" v-bind:domain="'media'"
+			v-bind:types="<?= $enc->attr( $types ) ?>"
+			v-bind:siteid="`<?= $enc->js( $this->site()->siteid() ) ?>`" v-bind:tabindex="`<?= $enc->js( $this->get( 'tabindex' ) ) ?>`"
+			v-bind:languages="<?= $enc->attr( $this->get( 'pageLangItems', map() )->col( 'locale.language.label', 'locale.language.id' )->unshift( $this->translate( 'admin', '__hidden__' ), 'xx' )->all() ) ?>"
+			v-bind:name="`<?= $enc->js( $this->formparam( ['media', '_idx_', 'property', '_propidx_', '_key_'] ) ) ?>`"
+			v-bind:items="element['property']" v-on:update:property="element['property'] = $event"
+			v-bind:i18n="{
+				all: `<?= $enc->js( $this->translate( 'admin', 'All' ) ) ?>`,
+				delete: `<?= $enc->js( $this->translate( 'admin', 'Delete this entry' ) ) ?>`,
+				header: `<?= $enc->js( $this->translate( 'admin', 'Media properties' ) ) ?>`,
+				help: `<?= $enc->js( $this->translate( 'admin', 'Non-shared properties for the media item' ) ) ?>`,
+				insert: `<?= $enc->js( $this->translate( 'admin', 'Insert new entry (Ctrl+I)' ) ) ?>`,
+				placeholder: `<?= $enc->js( $this->translate( 'admin', 'Property value (required)' ) ) ?>`,
+				select: `<?= $enc->js( $this->translate( 'admin', 'Please select' ) ) ?>`
+			}">
+		</property-table>
+
+	<?php endif ?>
+
+	<?= $this->get( 'propertyBody' ) ?>
+
+</div>

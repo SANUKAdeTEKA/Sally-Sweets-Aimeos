@@ -1,0 +1,967 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Aimeos, 2021
+# Aimeos, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: aimeos-core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-12 19:06+0200\n"
+"PO-Revision-Date: 2015-07-09 20:33+0000\n"
+"Last-Translator: Aimeos, 2021\n"
+"Language-Team: Finnish (http://app.transifex.com/aimeos/aimeos-core/language/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, php-format
+msgid "%1$d article"
+msgid_plural "%1$d articles"
+msgstr[0] "%1$d esine"
+msgstr[1] "%1$d esineet"
+
+#, php-format
+msgid "%1$d review"
+msgid_plural "%1$d reviews"
+msgstr[0] "%1$d arviointi"
+msgstr[1] "%1$d arviointia"
+
+#, php-format
+msgid ""
+"%1$s\n"
+"%2$s %3$s %4$s %5$s\n"
+"%6$s %7$s\n"
+"%8$s\n"
+"%9$s %10$s\n"
+"%11$s\n"
+"%12$s\n"
+"%13$s\n"
+"%14$s\n"
+"%15$s\n"
+"%16$s\n"
+"%17$s\n"
+"%18$s\n"
+msgstr "%1$s\n%2$s %3$s %4$s %5$s\n%6$s %7$s\n%8$s\n%9$s %10$s\n%11$s\n%12$s\n%13$s\n%14$s\n%15$s\n%16$s\n%17$s\n%18$s\n"
+
+#, php-format
+msgid ""
+"%1$s\n"
+"%2$s %3$s %4$s %5$s\n"
+"%6$s %7$s\n"
+"%8$s\n"
+"%9$s %10$s\n"
+"%11$s\n"
+"%12$s\n"
+"%13$s\n"
+"%14$s\n"
+"%15$s\n"
+"%16$s\n"
+"%17$s\n"
+"%18$s\n"
+"%19$s\n"
+msgstr ""
+
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#, php-format
+msgid "%1$s %2$s off"
+msgstr "%1$s %2$s off"
+
+#, php-format
+msgid "%1$s (%4$s%2$s%3$s)"
+msgstr ""
+
+#, php-format
+msgid "%1$s article"
+msgid_plural "%1$s articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#, php-format
+msgid "%1$s%3$s + %2$s%3$s"
+msgstr "%1$s%3$s + %2$s%3$s"
+
+msgid "(opens in new window)"
+msgstr ""
+
+#, php-format
+msgid "+ %1$s %2$s"
+msgstr ""
+
+#, php-format
+msgid "+ %1$s%% %2$s"
+msgstr "+ %1$s%% %2$s"
+
+#, php-format
+msgid "+ %1$s%% VAT"
+msgstr "+ %1$s%% Alv."
+
+msgid "+1 123 456 7890"
+msgstr "+1 123 456 7890"
+
+#, php-format
+msgid "-%1$s%%"
+msgstr "-%1$s%%"
+
+msgid "A non-recoverable error occured"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add billing address"
+msgstr "Lisää laskutusosoite"
+
+msgid "Add delivery address"
+msgstr ""
+
+msgid "Add to basket"
+msgstr "Lisää ostoskoriin"
+
+msgid "Additional"
+msgstr "Lisä"
+
+msgid "Additional 2"
+msgstr "Lisä 2"
+
+msgid "Apply"
+msgstr ""
+
+msgid "Article"
+msgstr "Esine"
+
+msgid "Article no."
+msgstr "Esine nro."
+
+#, php-format
+msgid "At least one billing address part is missing or invalid"
+msgstr "Ainakin yksi laskutusosoitteen osa puuttuu tai on virheellinen"
+
+#, php-format
+msgid "At least one delivery address part is missing or invalid"
+msgstr "Ainakin yksi toimitusosoitteen osa puuttuu tai on virheellinen"
+
+#, php-format
+msgid "At least one payment address part is missing or invalid"
+msgstr ""
+
+msgid "At least one product couldn't be added to the basket."
+msgstr ""
+
+msgid "Back"
+msgstr "Takaisin"
+
+msgid "Basket"
+msgstr "Ostoskori"
+
+msgid "Basket details"
+msgstr ""
+
+msgid "Basket name"
+msgstr ""
+
+msgid "Basket saved sucessfully"
+msgstr ""
+
+msgid "Billing address"
+msgstr "Laskutusosoite"
+
+#, php-format
+msgid "Billing address part \"%1$s\" is invalid"
+msgstr "Laskutusosoitteen osa \"%1$s” on virheellinen"
+
+#, php-format
+msgid "Billing address part \"%1$s\" is missing"
+msgstr "Laskutusosoitteen osa \"%1$s” puuttuu"
+
+msgid "Birthday"
+msgstr "Syntymäpäivä"
+
+msgid "Breadcrumb navigation"
+msgstr ""
+
+msgid "Bulk order"
+msgstr "Tukkutilaus"
+
+msgid "Bundled products"
+msgstr "Niputetut tuotteet"
+
+msgid "Buy now"
+msgstr "Osta nyt"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Categories"
+msgstr "Kategoriat"
+
+msgid "Change"
+msgstr "Muuta"
+
+msgid "Change address"
+msgstr ""
+
+msgid "Change billing address"
+msgstr ""
+
+msgid "Change coupons"
+msgstr ""
+
+msgid "Change delivery"
+msgstr ""
+
+msgid "Change delivery address"
+msgstr ""
+
+msgid "Change payment"
+msgstr "Muuta maksua"
+
+msgid "Change products"
+msgstr ""
+
+msgid "Characteristics"
+msgstr "Ominaisuudet"
+
+msgid "Checkout"
+msgstr "Maksamaan"
+
+msgid "City"
+msgstr "Kaupunki"
+
+#, php-format
+msgid "Class \"%1$s\" not found"
+msgstr "Luokka \"%1$s\" ei löydy"
+
+msgid "Close"
+msgstr "Sulje"
+
+msgid "Company"
+msgstr "Yritys"
+
+msgid "Confirmation"
+msgstr "Vahvistus"
+
+msgid "Country"
+msgstr "Maa"
+
+msgid "Coupon codes"
+msgstr "Alennuskoodit"
+
+msgid "Coupons"
+msgstr "Alennukset"
+
+msgid "Create a customer account for me"
+msgstr "Luo minulle asiakaskäyttäjätili"
+
+msgid "Created"
+msgstr "Luotu"
+
+msgid "Customer account"
+msgstr "Asiakaskäyttäjätili"
+
+msgid "Decrease"
+msgstr ""
+
+msgid "Delete"
+msgstr "Poista"
+
+msgid "Delete item"
+msgstr ""
+
+msgid "Delivery"
+msgstr "Toimitus"
+
+msgid "Delivery address"
+msgstr "Toimitusosoite"
+
+#, php-format
+msgid "Delivery address deleted successfully"
+msgstr "Toimitusosoite poistettu onnistuneesti"
+
+#, php-format
+msgid "Delivery address part \"%1$s\" is invalid"
+msgstr "Toimitusosoitteen osa \"%1$s” on virheellinen"
+
+#, php-format
+msgid "Delivery address part \"%1$s\" is missing"
+msgstr "Toimitusosoitteen osa \"%1$s” puuttuu"
+
+msgid "Delivery within"
+msgstr "Toimitus ajassa"
+
+msgid "Description"
+msgstr "Kuvaus"
+
+msgid "Details"
+msgstr "Lisätiedot"
+
+msgid "Don't store address"
+msgstr "Älä tallenna osoitetta"
+
+msgid "Downloads"
+msgstr "Lataukset"
+
+msgid "E-Mail"
+msgstr "Sähköposti"
+
+msgid "End date"
+msgstr "Loppupäivämäärä"
+
+msgid "Favorite products"
+msgstr "Lempituotteet"
+
+msgid "Fax"
+msgstr "Faksi"
+
+msgid "Fields with an * are mandatory"
+msgstr "* -merkityt kentät ovat pakollisia"
+
+msgid "Filter"
+msgstr "Suodatin"
+
+msgid "First"
+msgstr ""
+
+msgid "First name"
+msgstr "Etunimi"
+
+msgid "Found products"
+msgstr ""
+
+msgid "GB999999973"
+msgstr "GB999999973"
+
+msgid "Go to page"
+msgstr ""
+
+msgid "Grid view"
+msgstr "Ruudukkonäkymä"
+
+msgid "HH:mm"
+msgstr "HH:mm"
+
+msgid "Highest price"
+msgstr ""
+
+#, php-format
+msgid ""
+"I accept the <a href=\"%1$s\" target=\"_blank\" title=\"terms and conditions"
+" (opens in new tab)\">terms and conditions</a>, <a href=\"%2$s\" "
+"target=\"_blank\" title=\"privacy policy (opens in new tab)\">privacy "
+"policy</a> and <a href=\"%3$s\" target=\"_blank\" title=\"cancellation "
+"policy (opens in new tab)\">cancellation policy</a>"
+msgstr ""
+
+#, php-format
+msgid ""
+"I accept the <a href=\"%1$s\" target=\"_blank\" title=\"terms and "
+"conditions\" alt=\"terms and conditions\">terms and conditions</a>, <a "
+"href=\"%2$s\" target=\"_blank\" title=\"privacy policy\" alt=\"privacy "
+"policy\">privacy policy</a> and <a href=\"%3$s\" target=\"_blank\" "
+"title=\"cancellation policy\" alt=\"cancellation policy\">cancellation "
+"policy</a>"
+msgstr "Hyväksyn <a href=\"%1$s\" target=\"_blank\" title=\"terms and conditions\" alt=\"terms and conditions\">terms and conditions</a>, <a href=\"%2$s\" target=\"_blank\" title=\"privacy policy\" alt=\"privacy policy\">privacy policy</a> ja <a href=\"%3$s\" target=\"_blank\" title=\"cancellation policy\" alt=\"cancellation policy\">cancellation policy</a>"
+
+msgid "If back in stock"
+msgstr "Jos taas varastossa"
+
+msgid "If price decreases"
+msgstr "Jos hinta laskee"
+
+#, php-format
+msgid "Incl. %1$s%% %2$s"
+msgstr "Sis. %1$s%% %2$s"
+
+#, php-format
+msgid "Incl. %1$s%% VAT"
+msgstr "Sis. %1$s%% Alv."
+
+msgid "Included rebates"
+msgstr "Sisältää hyvitykset"
+
+msgid "Increase"
+msgstr ""
+
+msgid "Interval"
+msgstr "Väli"
+
+#, php-format
+msgid "Invalid characters in client name \"%1$s\""
+msgstr "Virheellisiä merkkejä asiakasnimessä \"%1$s\""
+
+#, php-format
+msgid "Invalid class name \"%1$s\""
+msgstr "Virheellinen luokkanimi \"%1$s\""
+
+#, php-format
+msgid "Invalid domain \"%1$s\""
+msgstr "Virheellinen verkkotunnus \"%1$s\""
+
+msgid "Invoice"
+msgstr ""
+
+msgid "Language"
+msgstr "Kieli"
+
+msgid "Last"
+msgstr ""
+
+msgid "Last name"
+msgstr "Sukunimi"
+
+msgid "Last seen"
+msgstr "Nähty viimeksi"
+
+msgid "Latest"
+msgstr "Viimeisin"
+
+msgid "Less"
+msgstr ""
+
+msgid "List view"
+msgstr "Listanäkymä"
+
+msgid "Lowest price"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Mobile number"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "More reviews"
+msgstr "Lisää arviointeja"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "New"
+msgstr ""
+
+msgid "New delivery address"
+msgstr "Uusi toimitusosoite"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "Next order"
+msgstr "Seuraava tilaus"
+
+#, php-format
+msgid ""
+"No articles found for <span class=\"searchstring\">\"%1$s\"</span>. Please "
+"try again with a different keyword."
+msgstr "Haulla <span class=\"searchstring\">\"%1$s”</span> ei löytynyt tuloksia. Ole hyvä ja yritä uudelleen käyttäen eri hakutermiä."
+
+msgid "No order ID available in session"
+msgstr ""
+
+#, php-format
+msgid "No view available"
+msgstr "Katsastelu ei mahdollista"
+
+msgid "One month"
+msgstr "Yksi kuukausi"
+
+msgid "One week"
+msgstr "Yksi viikko"
+
+msgid "Open submenu"
+msgstr ""
+
+msgid "Order ID"
+msgstr "Tilaus ID"
+
+msgid "Order details"
+msgstr "Tilauksen lisätiedot"
+
+msgid "Order history"
+msgstr "Tilaushistoria"
+
+msgid "Order status"
+msgstr "Tilauksen tila"
+
+msgid "Other customers also bought"
+msgstr "Muut asiakkaat ostivat myös"
+
+#, php-format
+msgid "Page %1$d of %2$d"
+msgstr "Sivu %1$d / %2$d"
+
+msgid "Pay now"
+msgstr "Maksa nyt"
+
+msgid "Payment"
+msgstr "Maksu"
+
+msgid "Payment costs"
+msgstr "Maksukustannukset"
+
+msgid "Payment status"
+msgstr "Maksun tila"
+
+msgid "Percentage"
+msgstr ""
+
+msgid "Pin product"
+msgstr ""
+
+msgid "Pinned products"
+msgstr "Kiinnitetyt tuotteet"
+
+msgid "Please accept the terms and conditions"
+msgstr "Hyväksy käyttöehdot"
+
+msgid "Please check your order"
+msgstr "Tarkista tilauksesi"
+
+msgid "Please choose your delivery method"
+msgstr "Valitse toimitustapa"
+
+msgid "Please choose your payment method"
+msgstr "Valitse maksutapa"
+
+msgid "Please enter at least three characters"
+msgstr "Kirjoita vähintään kolme merkkiä"
+
+msgid "Please enter your payment details"
+msgstr "Kirjoita maksutietosi"
+
+msgid "Please select"
+msgstr "Valitse"
+
+msgid "Postal code"
+msgstr "Postinumero"
+
+msgid "Previous"
+msgstr "Edellinen"
+
+msgid "Price"
+msgstr "Hinta"
+
+msgid "Price filter"
+msgstr ""
+
+msgid "Price range"
+msgstr ""
+
+msgid "Proceed"
+msgstr "Jatka"
+
+msgid "Processing the payment failed"
+msgstr "Maksun käsittely epäonnistui"
+
+msgid "Product"
+msgstr "Tuote"
+
+msgid "Product actions"
+msgstr ""
+
+msgid "Product attributes"
+msgstr ""
+
+msgid "Product categories"
+msgstr ""
+
+msgid "Product characteristics"
+msgstr ""
+
+msgid "Product description"
+msgstr ""
+
+msgid "Product downloads"
+msgstr ""
+
+msgid "Product filters"
+msgstr ""
+
+msgid "Product image"
+msgstr "Tuotekuva"
+
+msgid "Product information"
+msgstr ""
+
+msgid "Product price"
+msgstr ""
+
+msgid "Product reviews"
+msgstr ""
+
+msgid "Product search"
+msgstr ""
+
+msgid "Products you might be also interested in"
+msgstr "Tuotteita, joista saatat olla kiinnostunut"
+
+msgid "Qty"
+msgstr "Kpl"
+
+msgid "Quantity"
+msgstr "Määrä"
+
+msgid "Rating"
+msgstr "Arvostelu"
+
+msgid "Reference"
+msgstr "Viittaus"
+
+msgid "Relevance"
+msgstr "Relevanssi"
+
+msgid "Remove"
+msgstr ""
+
+msgid "Reset"
+msgstr "Nollaa"
+
+#, php-format
+msgid "Result for \"%1$s\""
+msgstr "Tulokset haulle \"%1$s\""
+
+msgid "Reviews"
+msgstr "Arvioinnit"
+
+msgid "SKU or article name"
+msgstr "SKU tai esineen nimi"
+
+msgid "Sale"
+msgstr ""
+
+msgid "Salutation"
+msgstr "Tervehdys"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Saved basket removed sucessfully"
+msgstr ""
+
+msgid "Saved baskets"
+msgstr ""
+
+msgid "Search"
+msgstr "Hae"
+
+#, php-format
+msgid "Search result for <span class=\"searchstring\">\"%1$s\"</span> (%2$d article)"
+msgid_plural ""
+"Search result for <span class=\"searchstring\">\"%1$s\"</span> (%2$d "
+"articles)"
+msgstr[0] "Hakutulos haulle <span class=\"searchstring\">\"%1$s\"</span> (%2$d esine)"
+msgstr[1] "Hakutulos haulle <span class=\"searchstring\">\"%1$s\"</span> (%2$d esineet)"
+
+msgid "Select country"
+msgstr "Valitse maa"
+
+msgid "Select currency"
+msgstr "Valitse valuutta"
+
+msgid "Select language"
+msgstr "Valitse kieli"
+
+msgid "Select salutation"
+msgstr "Valitse tervehdys"
+
+msgid "Select state"
+msgstr "Valitse alue/osavaltio"
+
+msgid "Share"
+msgstr "Jaa"
+
+msgid "Shipping"
+msgstr "Toimitus"
+
+msgid "Show"
+msgstr "Näytä"
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Sort by:"
+msgstr "Järjestä:"
+
+msgid "Stars"
+msgstr ""
+
+msgid "State"
+msgstr "Alue/osavaltio"
+
+msgid "Stock"
+msgstr "Varastossa"
+
+#, php-format
+msgid "Stock: %1$s, %2$s"
+msgstr "Varastossa: %1$s, %2$s"
+
+#, php-format
+msgid "Stock: %1$s, %2$s, back on %3$s"
+msgstr "Varastossa: %1$s, %2$s, uudestaan %3$s"
+
+msgid "Street"
+msgstr "Katu"
+
+msgid "Sub-total"
+msgstr "Välisumma"
+
+msgid "Submit"
+msgstr ""
+
+msgid "Subscription ID"
+msgstr "Tilauksen ID"
+
+msgid "Subscription details"
+msgstr "Tilauksen tiedot"
+
+msgid "Subscriptions"
+msgstr "Tilaukset"
+
+msgid "Suggested products"
+msgstr "Ehdotetut tuotteet"
+
+msgid "Sum"
+msgstr "Summa"
+
+msgid "Supplier information"
+msgstr "Toimittajan tiedot"
+
+msgid "Supplier list"
+msgstr ""
+
+msgid "Suppliers"
+msgstr "Toimittajat"
+
+msgid "Take a look"
+msgstr ""
+
+msgid "Telephone"
+msgstr "Puhelin"
+
+msgid "Terms and conditions"
+msgstr "Käyttöehdot"
+
+msgid ""
+"Thank you for your order and authorizing the payment.\n"
+"An e-mail with the order details will be sent to you within the next few minutes."
+msgstr "Kiitos tilauksestasi ja maksun hyväksymisestä.\nSinulle lähetetään muutaman minuutin kuluessa sähköpostiviesti, joka sisältää tilaustiedot."
+
+msgid ""
+"Thank you for your order.\n"
+"We received your payment and an e-mail with the order details will be sent to you within the next few minutes."
+msgstr "Kiitos tilauksestasi.\nVastaanotimme maksusi. Sinulle lähetetään muutaman minuutin kuluessa sähköpostiviesti, joka sisältää tilaustiedot."
+
+msgid "Thank you for your review!"
+msgstr "Kiitos arvioinnistasi!"
+
+msgid ""
+"The order was canceled.\n"
+"Do you wish to retry your order?"
+msgstr "Tilaus peruttiin.\nHaluatko yrittää tilausta uudelleen?"
+
+msgid ""
+"The payment confirmation for your order is still pending.\n"
+"You will get an e-mail as soon as the payment is authorized."
+msgstr "Tilauksesi maksua ei ole vielä vahvistettu.\nSaat sähköpostiviestin heti, kun maksu on hyväksytty."
+
+msgid "Three month"
+msgstr "Kolme kuukautta"
+
+msgid "Time frame"
+msgstr "Aikaväli"
+
+msgid "Title"
+msgstr ""
+
+msgid "Toggle fullscreen"
+msgstr "Ota kokonäyttötila käyttöön"
+
+msgid "Total"
+msgstr "Kokonaisuudessaan"
+
+msgid "Try again"
+msgstr "Yritä uudelleen"
+
+msgid "Two weeks"
+msgstr "Kaksi viikkoa"
+
+#, php-format
+msgid "Unable to create an account: %1$s"
+msgstr "Käyttäjätilin %1$s luominen ei onnistunut"
+
+#, php-format
+msgid "Unable to save address for customer \"%1$s\": %2$s"
+msgstr "Osoitteen tallentaminen asiakkaalle \"%1$s\": %2$s ei onnistunut"
+
+msgid ""
+"Unfortunately, the payment for your order was refused.\n"
+"Do you wish to retry?"
+msgstr "Valitettavasti maksusi tätä tilausta varten evättiin.\nHaluatko yrittää uudelleen?"
+
+msgid "Update"
+msgstr "Päivitä"
+
+msgid "Variant"
+msgstr "Muunnos"
+
+msgid "Vat ID"
+msgstr "Alv. ID"
+
+msgid "Vendor response"
+msgstr "Kauppiaan vastaus"
+
+msgid "Watch"
+msgstr "Katso"
+
+msgid "Watched products"
+msgstr "Katsotut tuotteet"
+
+msgid "Web site"
+msgstr "Verkkosivu"
+
+msgid "What do you think about the product"
+msgstr "Mitä mieltä olet tuotteesta"
+
+msgid "Y-m-d"
+msgstr "V-kk-pvä"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "YYYY-MM-DD HH:mm"
+msgstr "YYYY-MM-DD HH:mm"
+
+msgid "You are here:"
+msgstr "Olet tässä:"
+
+#, php-format
+msgid "You can only save up to %1$s products as favorites"
+msgstr ""
+
+#, php-format
+msgid "You can only watch up to %1$s products"
+msgstr ""
+
+msgid "You must log in first"
+msgstr ""
+
+msgid "You will now be forwarded to the next step"
+msgstr "Sinut ohjataan nyt seuraavaan vaiheeseen"
+
+msgid "Your choice"
+msgstr "Valintasi"
+
+msgid "Your comment"
+msgstr "Kommenttisi"
+
+msgid "Your rating"
+msgstr "Arvostelusi"
+
+msgid "Your reference"
+msgstr "Viitteesi"
+
+msgid "Your reference number"
+msgstr "Viitenumerosi"
+
+msgid "Your review"
+msgstr "Arviointisi"
+
+msgid "Zoom in/out"
+msgstr "Zoomaa sisään / ulos"
+
+#, php-format
+msgid "address"
+msgstr "osoite"
+
+#, php-format
+msgid "delivery"
+msgstr "toimitus"
+
+msgid "favorite"
+msgstr ""
+
+#, php-format
+msgid "from %1$s"
+msgstr "sivulta %1$s"
+
+msgid "like billing address"
+msgstr "kuten laskutusosoite"
+
+msgid "new address"
+msgstr "uusi osoite"
+
+msgid "none"
+msgstr "ei mitään"
+
+msgid "on request"
+msgstr ""
+
+#, php-format
+msgid "payment"
+msgstr "maksu"
+
+msgid "pin"
+msgstr ""
+
+msgid "price:default"
+msgstr ""
+
+#, php-format
+msgid "process"
+msgstr "prosessi"
+
+msgid "stock-high"
+msgstr "tuotteita-paljon"
+
+msgid "stock-low"
+msgstr "tuotteita-vähän"
+
+msgid "stock-out"
+msgstr "tuotteita-loppu"
+
+msgid "stock-unlimited"
+msgstr "tuotteita-rajattomasti"
+
+#, php-format
+msgid "summary"
+msgstr "yhteenveto"
+
+msgid "watch"
+msgstr ""
+
+msgid "▲ Name"
+msgstr "▲ Nimi"
+
+msgid "▲ Price"
+msgstr "▲ Hinta"
+
+msgid "▶"
+msgstr "▶"
+
+msgid "▶▶"
+msgstr "▶▶"
+
+msgid "▼ Name"
+msgstr "▼ Nimi"
+
+msgid "▼ Price"
+msgstr "▼ Hinta"
+
+msgid "◀"
+msgstr "◀"
+
+msgid "◀◀"
+msgstr "◀◀"

@@ -1,0 +1,2550 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Bruce Liu <zcon.bruce@gmail.com>, 2016
+# Hans He, 2022
+# manuel.fries <manuel.fries@gdatasoftware.com>, 2014
+# morgan chan <mrmmc8@gmail.com>, 2021
+# stevechen <steve.stevechen@gmail.com>, 2018
+# stevechen <steve.stevechen@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: aimeos-core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-26 15:47+0200\n"
+"PO-Revision-Date: 2015-07-09 21:04+0000\n"
+"Last-Translator: Hans He, 2022\n"
+"Language-Team: Chinese (http://app.transifex.com/aimeos/aimeos-core/language/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid " "
+msgstr "  产品支付"
+
+#, php-format
+msgid "%1$d/%2$d"
+msgstr "%1$d/%2$d"
+
+#, php-format
+msgid ""
+"%1$s\n"
+"\t%2$s %3$s %4$s %5$s\n"
+"\t%6$s %7$s\n"
+"\t%8$s\n"
+"\t%9$s %10$s\n"
+"\t%11$s\n"
+"\t%12$s\n"
+"\t%13$s\n"
+"\t%14$s\n"
+"\t%15$s\n"
+"\t%16$s\n"
+"\t%17$s\n"
+"\t%18$s\n"
+"\t"
+msgstr "%1$s\n%2$s%3$s%4$s %5$s\n\t%6$s %7$s\n\t%8$s\n\t%9$s %10$s\n\t%11$s\n\t%12$s\n\t%13$s\n\t%14$s\n\t%15$s\n\t%16$s\n\t%17$s\n\t%18$s"
+
+#, php-format
+msgid ""
+"%1$s\n"
+"%2$s %3$s\n"
+"%5$s %4$s\n"
+"%7$s, %6$s\n"
+"%8$s, %9$s\n"
+"%10$s\n"
+"%11$s\n"
+"%12$s"
+msgstr "%1$s\n%2$s %3$s\n%5$s %4$s\n%7$s, %6$s\n%8$s, %9$s\n%10$s\n%11$s\n%12$s"
+
+#, php-format
+msgid ""
+"%1$s\n"
+"%2$s %3$s %4$s %5$s\n"
+"%6$s %7$s\n"
+"%8$s\n"
+"%9$s %10$s\n"
+"%11$s\n"
+"%12$s\n"
+"%13$s\n"
+"%14$s\n"
+"%15$s\n"
+"%16$s\n"
+"%17$s\n"
+"%18$s\n"
+msgstr "%1$s\n%2$s %3$s %4$s %5$s\n%6$s %7$s\n%8$s\n%9$s %10$s\n%11$s\n%12$s\n%13$s\n%14$s\n%15$s\n%16$s\n%17$s\n%18$s\n"
+
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#, php-format
+msgid "%1$s (Ctrl+Alt+%2$s)"
+msgstr "%1$s (Ctrl+Alt+%2$s)"
+
+#, php-format
+msgid "%s/%s/%s.%s"
+msgstr "%s/%s/%s.%s"
+
+msgid ""
+"(International) facsimilie number without separation characters, can start "
+"with a \"+\""
+msgstr "沒有分隔字元的（國際）傳真號碼，可以以 “+” 開頭"
+
+msgid ""
+"(International) telephone number without separation characters, can start "
+"with a \"+\""
+msgstr "沒有分隔字元的（國際）電話號碼，可以以 “+” 開頭"
+
+msgid "+ Tax"
+msgstr "+稅"
+
+msgid "<hidden>"
+msgstr ""
+
+msgid "?"
+msgstr "?"
+
+msgid "Account"
+msgstr "帳戶"
+
+msgid "Active"
+msgstr "活躍"
+
+msgid "Actual price"
+msgstr "實際價格"
+
+msgid "Actual price customers can buy the article for on the web site"
+msgstr "客戶網站上購買產品實際價格客"
+
+msgid "Add"
+msgstr "添加"
+
+msgid ""
+"Additional delivery costs for each item, e.g. $20 for one heavy item will be"
+" $100 for five items it total"
+msgstr "各個物品的附加運費，如：一個較重的物品需附加$20運費，則5個同樣的物品則需要共$100運費。"
+
+msgid "Additional information where the customer's apartment can be found"
+msgstr "可找到客戶公寓的其他資訊"
+
+msgid "Additional information where the supplier's apartment can be found"
+msgstr "可找到供應商公寓的其他資訊"
+
+msgid "Address 1"
+msgstr "地址1"
+
+msgid "Address 2"
+msgstr "地址2"
+
+msgid "Address 3"
+msgstr "地址3"
+
+msgid "Address identifier of the customer's house for delivery"
+msgstr "客戶送貨的地址標識符"
+
+msgid "Address identifier of the supplier's house for delivery"
+msgstr "供應商供貨的地址標識符"
+
+#, php-format
+msgid "Admin JQAdm type is empty"
+msgstr "Admin JQAdm 類型是空的"
+
+msgid "Advanced"
+msgstr "進階"
+
+#, php-format
+msgid "Aimeos caching is disabled by \"%1$s\""
+msgstr "Aimeos 快取在禁用由 \"%1$s\""
+
+#, php-format
+msgid "Aimeos debug logging is enabled by \"%1$s\""
+msgstr "Aimeos 調試注冊能夠由 \"%1$s\""
+
+#, php-format
+msgid "Aimeos object not available"
+msgstr "Aimeos 元件無法使用"
+
+msgid "All"
+msgstr "所有"
+
+msgid ""
+"All attributes that uniquely define an article, e.g. width, length and color"
+" for jeans"
+msgstr "所有屬性唯一標識每個產品, \n例子:牛仔褲的寬度、長度和顏色"
+
+msgid "Allow custom price"
+msgstr "允許客制價格"
+
+msgid "Allow customers to choose themselves how much they want to pay"
+msgstr "允許客戶選擇期望的價格"
+
+msgid "Alphanumeric string that can identify the group uniquely"
+msgstr "字母數字字串可以正確識別每個組"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid ""
+"Article specific configuration options, will be available as key/value pairs"
+" in the templates"
+msgstr "产品特定的配置项，将在模板中作为键/值对提供"
+
+msgid "Attribute"
+msgstr "属性"
+
+msgid "Attribute Lists Type"
+msgstr "屬性清單種類"
+
+msgid "Attribute Lists Types"
+msgstr "屬性清單種類"
+
+msgid "Attribute Property Type"
+msgstr "屬性性能類型"
+
+msgid "Attribute Property Types"
+msgstr "屬性性能類型"
+
+msgid "Attribute Type"
+msgstr "屬性種類"
+
+msgid "Attribute Types"
+msgstr "屬性種類"
+
+msgid "Attribute position (optional)"
+msgstr "屬性位置（可不填）"
+
+msgid "Attribute properties that are not shared with other attributes"
+msgstr "特性是不与其他产品共用的属性"
+
+msgid "Attribute type that limits the list of available attributes"
+msgstr "属性类型，限制列表的可用属性"
+
+msgid "Attributes"
+msgstr "屬性"
+
+msgid "Available currency for the current site"
+msgstr "此站可用的幣別"
+
+msgid "Available intervals in the front-end"
+msgstr "前台可用的間隔"
+
+msgid "Available language for the current site"
+msgstr "此站可用的語言"
+
+msgid ""
+"Average product rating and total number of ratings by customers for this "
+"product"
+msgstr "该产品的所有客户平均评分和总评分"
+
+msgid "Back in stock"
+msgstr "商品有庫存 "
+
+msgid "Basic"
+msgstr "基礎"
+
+msgid "Basket"
+msgstr "購物車"
+
+msgid "Billing address"
+msgstr "帳單地址"
+
+msgid "Birthday"
+msgstr "生日"
+
+msgid "Birthday of the customer"
+msgstr "客戶生日"
+
+msgid "Boost factor"
+msgstr ""
+
+msgid "Boost factor (optional)"
+msgstr ""
+
+msgid "Bug or suggestion?"
+msgstr "問題或建議？"
+
+msgid "Bulk edit"
+msgstr ""
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel and return to list"
+msgstr "取消並返回至清單"
+
+msgid "Catalog"
+msgstr "商品型錄"
+
+msgid "Catalog Lists Type"
+msgstr "型錄列表種類"
+
+msgid "Catalog Lists Types"
+msgstr "型錄列表種類"
+
+msgid "Categories"
+msgstr "商品型錄"
+
+msgid "Categories the product can be found in by the user on the web site"
+msgstr "用户可以在网站上找到产品的类别"
+
+msgid "Categories the product will be shown for in the promotional section"
+msgstr "产品将在促销部分显示的类别"
+
+msgid ""
+"Category specific configuration options, will be available as key/value "
+"pairs in the templates"
+msgstr "类别特定的配置选项，将在模板中作为键/值对提供"
+
+msgid "Change costs/item in %"
+msgstr ""
+
+msgid "Change rebate in %"
+msgstr ""
+
+msgid "Change value in %"
+msgstr ""
+
+msgid "Channel"
+msgstr "路線"
+
+msgid "Channel the order has been placed"
+msgstr ""
+
+msgid "Choose file"
+msgstr "選擇檔案"
+
+msgid "City"
+msgstr "市"
+
+msgid "City or town name (required)"
+msgstr "城市或城鎮名稱（必填）"
+
+#, php-format
+msgid "Class \"%1$s\" does not implement \"%2$s\""
+msgstr "class \"%1$s\" 沒有實裝 \"%2$s\""
+
+#, php-format
+msgid "Class \"%1$s\" not available"
+msgstr "class \"%1$s\" 無法使用"
+
+#, php-format
+msgid "Class \"%1$s\" not found"
+msgstr "找不到class \"%1$s\""
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Code"
+msgstr "代碼"
+
+msgid "Code to uniquely identify the site, renaming is dangerous!"
+msgstr "站点的唯一识别标识，重命名有风险！"
+
+msgid "Columns"
+msgstr "欄位"
+
+msgid "Comment"
+msgstr "備註"
+
+msgid "Comment of the reviewer"
+msgstr "評論者的評論"
+
+msgid "Communication"
+msgstr "溝通"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "Company details"
+msgstr "公司資料"
+
+msgid "Company name (optional)"
+msgstr "公司名（可不填）"
+
+msgid "Completed orders"
+msgstr "已完成订单"
+
+msgid ""
+"Completed orders within the last seven days compared to the period before"
+msgstr "最近7天已完成订单对比上期"
+
+msgid "Config"
+msgstr "配置"
+
+msgid "Configurable"
+msgstr "可配置"
+
+msgid ""
+"Configuration options, will be available as key/value pairs in the list item"
+msgstr "配置选项，将作为列表项中的键/值对提供"
+
+msgid "Copy"
+msgstr "複製"
+
+msgid "Copy this entry"
+msgstr "拷貝此紀錄"
+
+msgid "Costs"
+msgstr "成本"
+
+msgid "Count"
+msgstr "計數"
+
+msgid "Country"
+msgstr "國家"
+
+msgid "Country ID"
+msgstr "國家 ID"
+
+msgid "Country code (required)"
+msgstr "國碼（必填）"
+
+msgid ""
+"Country specific tax rate to calculate and display the included tax (B2C) or"
+" add the tax if required (B2B)"
+msgstr "国家特定的税率，用于计算和显示含税价 (B2C) 或根据需要添加税(B2B)"
+
+msgid "Country state code (optional)"
+msgstr "州碼（可不填）"
+
+msgid "Coupon"
+msgstr "優惠券"
+
+msgid "Coupon provider or coupon decorator configuration name"
+msgstr "优惠券提供者或优惠券装饰器配置名称"
+
+msgid "Created"
+msgstr "創建"
+
+msgid "Currencies"
+msgstr "幣別"
+
+msgid "Currency"
+msgstr "貨幣"
+
+msgid "Custom"
+msgstr "定制"
+
+msgid "Custom domain or unique code of your shop"
+msgstr "自定义域或店铺唯一代码"
+
+msgid "Customer"
+msgstr "顧客"
+
+msgid "Customer ID"
+msgstr "客戶 ID"
+
+msgid "Customer Lists Type"
+msgstr "客戶清單種類"
+
+msgid "Customer Lists Types"
+msgstr "客戶清單種類"
+
+msgid "Customer Property Type"
+msgstr "客戶特性類型"
+
+msgid "Customer Property Types"
+msgstr "客戶特性類型"
+
+msgid "Customer characteristics that are not shared with other customers"
+msgstr "不与其他客户共享的客户特征"
+
+msgid "Customer comment (optional)"
+msgstr "客戶備註（可不填）"
+
+msgid "Customer e-mail address"
+msgstr "客戶電子信箱"
+
+msgid "Customer password"
+msgstr "客戶密碼"
+
+msgid "Customer properties that are not shared with other customers"
+msgstr "客户特性，不与其他客户共享"
+
+msgid "Customer reference"
+msgstr "客戶參考"
+
+msgid "Customer reference (optional)"
+msgstr "客戶參考 (可選擇的)"
+
+msgid "Dashboard"
+msgstr "儀表板"
+
+msgid "Data"
+msgstr ""
+
+msgid "Data set"
+msgstr "資料集"
+
+msgid "Dataset"
+msgstr "数据集"
+
+msgid "Date of the last delivery status change"
+msgstr "最後運送狀態更改日期"
+
+msgid "Date of the last payment status change"
+msgstr "最後付款狀態更改日期"
+
+msgid "Date the subscription ends"
+msgstr "訂閱結束日期"
+
+msgid "Days"
+msgstr "天數"
+
+msgid "Default"
+msgstr "預設"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete items?"
+msgstr "删除項目？"
+
+msgid "Delete selected entries"
+msgstr "删除选中的实体"
+
+msgid "Delete this entry"
+msgstr "刪除此紀錄"
+
+msgid "Deleting reviews is not allowed"
+msgstr "不允许删除评论"
+
+msgid "Delivery"
+msgstr "運送"
+
+msgid "Delivery address"
+msgstr "配送地址"
+
+msgid "Delivery date"
+msgstr "配送日期"
+
+msgid "Delivery in"
+msgstr "交货"
+
+msgid ""
+"Delivery or payment costs for the products in the basket of the customer"
+msgstr "客户购物篮中产品的运输或支付费用"
+
+msgid "Delivery status"
+msgstr "配送狀態"
+
+msgid "Delivery timeframe (optional)"
+msgstr "运输时间范围（可选）"
+
+msgid "Delivery types"
+msgstr "配送方式"
+
+msgid "Delivery within"
+msgstr "交貨在之內"
+
+msgid ""
+"Depending on the selected data set, the list of shown fields for the product"
+" will be different"
+msgstr "取决于选择的数据集，展示的产品列表字段将会不同"
+
+msgid "Description of the text content if it's in a foreign language"
+msgstr "當文字內容為外文時的敘述"
+
+msgid "Descritive name of the currency"
+msgstr "货币的描述性名称"
+
+msgid "Descritive name of the language"
+msgstr "语言的描述性名称"
+
+msgid "Descritive name of the site"
+msgstr "站点的描述性名称"
+
+msgid "Discount"
+msgstr "打折"
+
+msgid "Display help texts"
+msgstr "顯示幫助案文"
+
+msgid "Domain"
+msgstr "網域"
+
+msgid "Download"
+msgstr "下載"
+
+msgid "Download this file"
+msgstr "下載此檔案"
+
+msgid "Duplicate entry (Ctrl+D)"
+msgstr "複製此紀錄（Ctrl+D）"
+
+msgid "E-Mail"
+msgstr "E-Mail"
+
+msgid "E-Mail address (required)"
+msgstr "電子信箱（必填）"
+
+msgid "E-Mail address or account name (required)"
+msgstr "电子邮箱或账户名 (必须)"
+
+msgid "E-Mail address used for sending shop related e-mails"
+msgstr "电子邮箱用于发送店铺相关邮件"
+
+msgid "E-mail"
+msgstr "電子信箱"
+
+msgid "E-mail address (optional)"
+msgstr "電子信箱（可不填）"
+
+msgid "E-mail address that belongs to the address"
+msgstr "与此地址对应的电子邮箱"
+
+msgid "EAN, SKU or article number (required)"
+msgstr "歐洲商品編碼，最小存貨單位 or 產品號碼 (必填)"
+
+msgid "Edit"
+msgstr "編輯"
+
+msgid "Edit this entry"
+msgstr "修改此紀錄"
+
+msgid "Editor"
+msgstr "編輯者"
+
+msgid "Email"
+msgstr "電子信箱"
+
+msgid "End date"
+msgstr "結束日期"
+
+msgid "End date (optional)"
+msgstr "結束日期（可不填）"
+
+msgid "Error"
+msgstr "錯誤"
+
+msgid "Excl. tax"
+msgstr "未稅"
+
+msgid "Execution order of the plugins"
+msgstr "插件執行順序"
+
+msgid "Execution order of the rules"
+msgstr "规则的执行顺序"
+
+msgid "Export"
+msgstr "匯出"
+
+msgid "Facility"
+msgstr "設施"
+
+msgid "Facsimile"
+msgstr "傳真"
+
+msgid "Facsimile number (optional)"
+msgstr "傳真號碼（可不填）"
+
+msgid ""
+"Factor to boost product in user search over other products (>1.0 positive "
+"boost, <1.0 negative boost)"
+msgstr ""
+
+msgid "Failed to write file to disk"
+msgstr "文件写入磁盘失败"
+
+msgid "File"
+msgstr "檔案"
+
+msgid "File upload stopped by extension"
+msgstr "文件上传被扩展停止"
+
+msgid "Find category"
+msgstr "查找類別"
+
+msgid "Find site"
+msgstr "查询站点"
+
+msgid "First"
+msgstr "第一筆"
+
+msgid "First name"
+msgstr "名"
+
+msgid "First name (optional)"
+msgstr "名（可不填）"
+
+msgid "First name of the person if used in cultures where they are used"
+msgstr "名字，如果该文化背景的用户使用名字"
+
+msgid "Floor"
+msgstr "樓層"
+
+msgid "Floor / Appartment"
+msgstr "樓層 / 公寓"
+
+msgid "Floor and/or apartment (optional)"
+msgstr "樓層 和/或 公寓 (選項)"
+
+msgid "Generate text"
+msgstr ""
+
+msgid "Given rebate amount"
+msgstr "給定回扣金額"
+
+msgid "Go to attribute panel"
+msgstr "转到属性控制板"
+
+msgid "Go to property type panel"
+msgstr "转到属性类型控制板"
+
+msgid "Go to the list of attribute types"
+msgstr "转到属性类型列表"
+
+msgid "Granted rebate"
+msgstr "准許回扣"
+
+msgid "Group"
+msgstr "群組"
+
+msgid "Group name describing for which members the group is for"
+msgstr "分组名描述该分组对应哪些会员"
+
+msgid "Groups"
+msgstr "分组"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "Hidden attributes"
+msgstr "隱藏屬性"
+
+msgid "Hidden product attributes that are stored with the ordered products"
+msgstr "隐藏的产品属性，与下单的产品一起存储"
+
+msgid "Highlighted suppliers of the product"
+msgstr "产品重点供应商"
+
+msgid "Honorary title (optional)"
+msgstr "榮譽稱號（可不填）"
+
+msgid "Honorary titles like Dr., Ph.D, etc."
+msgstr "榮譽稱號: 如醫生，博士等等"
+
+msgid "Hours"
+msgstr "小時"
+
+msgid "House number"
+msgstr "門牌號碼"
+
+msgid "House number (optional)"
+msgstr "門牌號碼（可不填）"
+
+msgid "How the customer is addressed in e-mails"
+msgstr "在电子邮件中如何称呼客户"
+
+msgid "How the supplier is addressed in e-mails"
+msgstr "在电子邮件中如何称呼供应商"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "ID of a related invoice, e.g. of a changed or refunded invoice"
+msgstr "相关发票的 ID，例如更改或退款的发票的 ID"
+
+msgid "ISO currency code (required)"
+msgstr "ISO 幣別代碼（必填）"
+
+msgid "ISO language code (required)"
+msgstr "ISO 語言代碼（必填）"
+
+msgid "Image"
+msgstr "圖片"
+
+msgid ""
+"Images will only be shown for that language, useful if the media contains "
+"text or is language sepecific"
+msgstr "图片仅在该语言下显示，如果媒体中包含文本或特定语言，则非常有用。"
+
+msgid "Import"
+msgstr "匯入"
+
+msgid "Import/Export jobs"
+msgstr "導入/導出工作"
+
+msgid "Incl. tax"
+msgstr "含稅"
+
+msgid "Info"
+msgstr "資訊"
+
+msgid "Insert new entry"
+msgstr "插入新紀錄"
+
+msgid "Insert new entry (Ctrl+I)"
+msgstr "插入新紀錄（Ctrl+l）"
+
+msgid ""
+"Internal article name, will be used on the web site and for searching only "
+"if no other product names in any language exist"
+msgstr "内部产品名称，只有在没有其他任何语言的产品名称存在的情况下，才会在网站上使用，并用于搜索。"
+
+msgid ""
+"Internal article name, will be used on the web site if no product name for "
+"the language is available"
+msgstr "内部产品名称，如果没有该语言的产品名称，将在网站上使用。"
+
+msgid ""
+"Internal attribute name, will be used on the web site if no name for the "
+"language is available"
+msgstr "内部属性名称，如果没有该语言的名称，将在网站上使用。"
+
+msgid ""
+"Internal category name, will be used on the web site if no name for the "
+"language is available"
+msgstr "内部类别名称，如果没有该语言的名称，将在网站上使用。"
+
+msgid "Internal name (required)"
+msgstr "內部名稱 (必填)"
+
+msgid "Internal type name shown in the administration interface"
+msgstr "管理界面中显示的内部类型名称"
+
+msgid "Interval"
+msgstr "間隔"
+
+msgid "Interval (required)"
+msgstr "間隔（必填）"
+
+#, php-format
+msgid "Invalid characters in class name \"%1$s\""
+msgstr "class名稱 \"%1$s\" 包含無效的字符"
+
+#, php-format
+msgid "Invalid characters in client name \"%1$s\""
+msgstr "client名稱 \"%1$s\"包含無效的字符 "
+
+#, php-format
+msgid "Invalid class name \"%1$s\""
+msgstr "無效的class名稱\"%1$s\""
+
+#, php-format
+msgid "Invalid domain \"%1$s\""
+msgstr "無效的網域 \"%1$s\""
+
+#, php-format
+msgid "Invalid factory \"%1$s\""
+msgstr "無效的factory \"%1$s\""
+
+msgid "Invoice"
+msgstr "發票"
+
+msgid "Invoice No."
+msgstr ""
+
+msgid "Invoice number for the order"
+msgstr ""
+
+msgid "Item deleted successfully"
+msgstr "刪除項目成功"
+
+msgid "Item saved successfully"
+msgstr "儲存項目成功"
+
+msgid ""
+"Item specific configuration options, will be available as key/value pairs in"
+" the templates"
+msgstr "项目特定的配置选项，将在模板中作为键/值对提供。"
+
+msgid "Label"
+msgstr "標籤"
+
+msgid "Label (required)"
+msgstr "標籤（必填）"
+
+msgid "Label describing the interval, will be used if no name is available"
+msgstr "描述间隔的标签，如果没有名称，将使用该标签。"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Language ID"
+msgstr "語言 ID"
+
+msgid "Language of the entered text"
+msgstr "輸入文字的語言"
+
+msgid "Languages"
+msgstr "語言"
+
+msgid "Last"
+msgstr "最後一筆"
+
+msgid "Last delivery status of the order"
+msgstr "訂單最後運送狀態"
+
+msgid "Last name"
+msgstr "姓"
+
+msgid "Last name (optional)"
+msgstr "姓氏（可选）"
+
+msgid "Last name (required)"
+msgstr "姓 (必填)"
+
+msgid ""
+"Last name of the person or full name in cultures where no first names are "
+"used"
+msgstr "此人的姓氏，若所在文化背景不区分姓和名则使用全名"
+
+msgid "Last payment status of the order"
+msgstr "订单的最新支付状态"
+
+msgid "Latest orders"
+msgstr "最新訂單"
+
+msgid "Length"
+msgstr "長度"
+
+msgid ""
+"List of articles that should be sold as one product, often at a reduced "
+"price"
+msgstr "作为一个产品进行销售的产品清单，通常以较低的价格销售"
+
+msgid "List of products often bought together"
+msgstr "經常一同購買的商品清單"
+
+msgid "List of suggested products"
+msgstr "建議產品清單"
+
+msgid "List type"
+msgstr "列表類型"
+
+msgid "Loading items ..."
+msgstr "正在加載項目"
+
+msgid "Locale"
+msgstr "區域"
+
+msgid "Log"
+msgstr "日誌"
+
+msgid "Manual transfer"
+msgstr ""
+
+msgid "Map"
+msgstr "映射"
+
+msgid "Media Lists Type"
+msgstr "媒體清單類別"
+
+msgid "Media Lists Types"
+msgstr "媒體清單類別"
+
+msgid "Media Property Type"
+msgstr "媒體資源類型"
+
+msgid "Media Property Types"
+msgstr "媒體資源類型"
+
+msgid "Media Type"
+msgstr "媒體類別"
+
+msgid "Media Types"
+msgstr "媒體類別"
+
+msgid "Media properties"
+msgstr "媒體資源"
+
+msgid "Menu"
+msgstr ""
+
+msgid "Message"
+msgstr "訊息"
+
+msgid "Min. quantity"
+msgstr "最小數量"
+
+msgid "Minimum quantity"
+msgstr "最小數量"
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Mobile number"
+msgstr ""
+
+msgid "Mobile number (optional)"
+msgstr ""
+
+msgid "Modifed"
+msgstr "修改"
+
+msgid "Modified"
+msgstr "修改"
+
+msgid "Months"
+msgstr "月"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Move this entry up/down"
+msgstr "此條目上下移動"
+
+msgid "Name"
+msgstr "姓名"
+
+msgid "Name in URL (optional)"
+msgstr "名稱在網址 (選項)"
+
+msgid "Name of the basket"
+msgstr ""
+
+msgid ""
+"Name of the downloaded file when customers saves the file on their computers"
+msgstr "下载文件时保存到客户电脑的文件名称"
+
+msgid "Name of the reviewer"
+msgstr "評論人姓名"
+
+msgid "Name of your shop shown to your customers"
+msgstr "向客户展示的商店名称"
+
+msgid "New"
+msgstr "新紀錄"
+
+msgid "New customers"
+msgstr "新客户"
+
+msgid "New customers within the last seven days"
+msgstr "最近7天新客户"
+
+msgid "New customers within the last seven days compared to the period before"
+msgstr "最近7天新客户对比上期"
+
+msgid "Next"
+msgstr "下一筆"
+
+msgid "Next date"
+msgstr "下一個日子"
+
+msgid "Next date (optional)"
+msgstr "下一日 (選項)"
+
+msgid "Next date the subscription is renewed"
+msgstr "下一个续订日期"
+
+msgid "No currencies available. Please enable at least one currency"
+msgstr "没有可用的币种。请最少启用一个币种"
+
+msgid "No file was uploaded"
+msgstr "没有上传文件"
+
+msgid "No items found"
+msgstr "找不到項目"
+
+msgid "No product found"
+msgstr "找不到產品"
+
+msgid "No theme options available"
+msgstr ""
+
+#, php-format
+msgid "No view available"
+msgstr "没有可用的view"
+
+msgid "No voucher"
+msgstr "沒有優惠券"
+
+msgid "Non-shared properties for the media item"
+msgstr "媒体条目不共享的特性"
+
+msgid "Non-shared properties for the price item"
+msgstr "价格条目不共享的特性"
+
+msgid "None"
+msgstr "沒有"
+
+msgid "Not all items could be deleted"
+msgstr "不是所有的项目都能被删除"
+
+#, php-format
+msgid "Not allowed to access JQAdm \"%1$s\" client"
+msgstr "讀取 JQAdm \"%1$s\" client 不允許"
+
+msgid "Not implemented"
+msgstr "未實裝"
+
+msgid "Notes"
+msgstr "备注"
+
+msgid "Notes (not shown to customer)"
+msgstr "备注（不对客户展示）"
+
+msgid ""
+"Number of articles currently in stock, leave empty for an unlimited quantity"
+msgstr "当前库存的产品数量，留空不限数量"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Official VAT ID to determine if the tax needs to be billed in invoices"
+msgstr "官方增值税号，用于确定是否需要在发票中开具税款"
+
+msgid ""
+"One provider and zero or more decorator class names separated by commas"
+msgstr "一个提供者和0个或多个装饰器类名，以逗号分隔"
+
+msgid "Only super users and administrators can delete items"
+msgstr "只有超级用户和管理员才能删除条目"
+
+msgid "Open"
+msgstr "开放中"
+
+msgid "Open Qty"
+msgstr "开放中数量"
+
+msgid "Option"
+msgstr "選項"
+
+msgid ""
+"Optional product components that can be chosen by the customer together with"
+" the product"
+msgstr "可由客户与产品一起选择的产品部件"
+
+msgid "Order"
+msgstr "訂單"
+
+msgid "Order ID"
+msgstr "訂單編號"
+
+msgid "Order number entered by the customer"
+msgstr "客户输入的订单号"
+
+msgid "Order of the language/currency combinations"
+msgstr "語言/幣別組合順序"
+
+msgid "Order of the service options in the checkout process"
+msgstr "结账过程中服务选项的顺序"
+
+msgid "Order of the types in the frontend"
+msgstr "前台类型的顺序"
+
+msgid "Order totals"
+msgstr "訂單總金額"
+
+msgid "Ordered at"
+msgstr "下单时间"
+
+msgid "Orders by country"
+msgstr "按国家看订单"
+
+msgid "Orders by day"
+msgstr "按日排序"
+
+msgid "Orders by hour"
+msgstr "按小時排序"
+
+msgid "Orders by payment status"
+msgstr "按付費狀態排序"
+
+msgid ""
+"Overwrite the existing file and customers bought it in the past can then "
+"download the new content too"
+msgstr "覆盖已存在的文件，过去已购买的客户也可以下载新内容"
+
+#, php-format
+msgid "PHP setting \"%1$s\" is disabled"
+msgstr "PHP 配置 \"%1$s\" 已禁用"
+
+#, php-format
+msgid "PHP setting \"%1$s\" is enabled"
+msgstr "PHP 配置 \"%1$s\" 已启用"
+
+#, php-format
+msgid "PHP setting for \"%1$s\" is too low"
+msgstr "PHP 配置 \"%1$s\" 太低"
+
+#, php-format
+msgid "Page %1$d of %2$d"
+msgstr "第%1$d 頁 共 %2$d 頁"
+
+msgid "Password"
+msgstr "密碼"
+
+msgid "Password (required)"
+msgstr "密碼 (必填)"
+
+msgid "Path"
+msgstr "路徑"
+
+msgid "Pay date"
+msgstr "支付日期"
+
+msgid "Pay status"
+msgstr "支付状态"
+
+msgid "Payment"
+msgstr "支付"
+
+msgid "Payment date"
+msgstr "支付日期"
+
+msgid "Payment status"
+msgstr "支付狀態"
+
+msgid "Payment types"
+msgstr "支付類型"
+
+msgid "Periods"
+msgstr "时期"
+
+#, php-format
+msgid "Permission denied"
+msgstr "没有权限"
+
+msgid "Personal data"
+msgstr "個人資料"
+
+msgid ""
+"Please insert the description of the text that should be generated here"
+msgstr ""
+
+msgid "Please select"
+msgstr "請選擇"
+
+msgid "Plugin"
+msgstr "插件"
+
+msgid "Plugin Type"
+msgstr "插件類別"
+
+msgid "Plugin Types"
+msgstr "插件類別"
+
+msgid "Plugin label for describing the configured plugin"
+msgstr "插件标签，用于描述配置的插件"
+
+msgid "Plugin position (required)"
+msgstr "插件位置（必须）"
+
+msgid "Plugin provider or plugin decorator configuration name"
+msgstr "插件提供者或插件装饰器配置名称"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Position (required)"
+msgstr "位置（必须）"
+
+msgid "Postal"
+msgstr "郵遞區號"
+
+msgid "Postal code for delivery if used in the area the customer is living"
+msgstr "邮政编码，用于送货如果在客户所居住的地区使用邮编"
+
+msgid "Postal code for delivery if used in the area the supplier is living"
+msgstr "邮政编码，用于送货如果在供应商所居住的地区使用邮编"
+
+msgid "Postition"
+msgstr "位置"
+
+msgid "Potential problems"
+msgstr "潜在问题"
+
+msgid "Previous"
+msgstr "前一筆"
+
+msgid "Price"
+msgstr "價格"
+
+msgid "Price Lists Type"
+msgstr "价格列表类型"
+
+msgid "Price Lists Types"
+msgstr "价格列表类型"
+
+msgid "Price Property Type"
+msgstr "价格特性类型"
+
+msgid "Price Property Types"
+msgstr "价格特性类型"
+
+msgid "Price Type"
+msgstr "價格類型"
+
+msgid "Price Types"
+msgstr "價格類型"
+
+msgid "Price properties"
+msgstr "价格特性"
+
+msgid "Priority"
+msgstr "優先"
+
+msgid "Problem"
+msgstr "问题"
+
+msgid "Product"
+msgstr "商品"
+
+msgid "Product ID"
+msgstr "商品ID"
+
+msgid "Product ID, SKU or label"
+msgstr "产品 ID,SKU 或标签"
+
+msgid "Product Lists Type"
+msgstr "产品列表类型"
+
+msgid "Product Lists Types"
+msgstr "产品列表类型"
+
+msgid "Product Property Type"
+msgstr "产品特性类型"
+
+msgid "Product Property Types"
+msgstr "产品特性类型"
+
+msgid "Product Type"
+msgstr "產品類別"
+
+msgid "Product Types"
+msgstr "產品類別"
+
+msgid ""
+"Product attributes stored in the basket where customers can enter their own "
+"texts or values"
+msgstr "存储在购物篮里的产品属性，客户可以输入自定义的文本或值"
+
+msgid "Product attributes that are used by other products too"
+msgstr "产品属性，其他产品也会使用"
+
+msgid "Product characteristics that are not shared with other products"
+msgstr "产品特性，不与其他产品共用"
+
+msgid "Product code"
+msgstr "商品代碼"
+
+msgid "Product costs"
+msgstr "商品成本"
+
+msgid "Product height, e.g. 20.0 (in yard, inch, etc.)"
+msgstr "商品高度"
+
+msgid "Product length, e.g. 30.0 (in yard, inch, etc.)"
+msgstr "商品長度"
+
+msgid "Product name"
+msgstr "商品名稱"
+
+msgid "Product payment"
+msgstr "产品支付"
+
+msgid "Product price"
+msgstr "商品價格"
+
+msgid "Product quantity"
+msgstr "商品數量"
+
+msgid "Product rebate"
+msgstr "商品折扣"
+
+msgid "Product shipping"
+msgstr "产品运输"
+
+msgid "Product status"
+msgstr "产品状态"
+
+msgid "Product supplier"
+msgstr "产品供应商"
+
+msgid "Product tax"
+msgstr "产品税率"
+
+msgid "Product type"
+msgstr "商品類型"
+
+msgid "Product weight, e.g. 1.25 (in pound, ounce, etc.)"
+msgstr "商品重量"
+
+msgid "Product width, e.g. 17.5 (in yard, inch etc.)"
+msgstr "商品寬度"
+
+msgid "Products"
+msgstr "商品"
+
+msgid "Products bought together"
+msgstr "一起購買商品"
+
+msgid "Promotion"
+msgstr "推廣"
+
+msgid "Properties"
+msgstr "屬性"
+
+msgid "Property value (required)"
+msgstr "屬性 (必填)"
+
+msgid "Provider"
+msgstr "供應者"
+
+msgid "Provider/decorator class names (required)"
+msgstr "提供者/装饰器类名（必须）"
+
+msgid "Purchase"
+msgstr "購買"
+
+msgid "Quantity"
+msgstr "數量"
+
+msgid "Quantity scale"
+msgstr "数量规模"
+
+msgid "Rabate"
+msgstr "折扣 Rabate"
+
+msgid "Rating"
+msgstr "評分"
+
+msgid "Rating and number of ratings for the merchant"
+msgstr ""
+
+msgid "Rating of the reviewer"
+msgstr "评论人等级"
+
+msgid "Reason"
+msgstr "原因"
+
+msgid "Rebate"
+msgstr "折扣"
+
+msgid ""
+"Reduction from the original price, used to calculate the rebate in % and the"
+" cross price"
+msgstr "比原价减少，用于计算折扣的百分比和交叉价格"
+
+msgid "Reference"
+msgstr "參考"
+
+msgid "Reference ID"
+msgstr "参考编号"
+
+msgid "Refund"
+msgstr "支付：已退款"
+
+msgid "Related ID"
+msgstr "關聯的 ID"
+
+msgid "Related order"
+msgstr "關聯的訂單"
+
+msgid "Related order ID (optional)"
+msgstr ""
+
+msgid "Related order of the customer"
+msgstr ""
+
+msgid "Renew"
+msgstr "續訂"
+
+msgid "Replace file"
+msgstr "取代檔案"
+
+msgid "Request"
+msgstr "請求"
+
+#, php-format
+msgid "Required parameter \"%1$s\" is missing"
+msgstr "需要的參數 \"%1$s\" 遺漏"
+
+msgid ""
+"Required quantity of articles for block pricing, e.g. one article for $5.00,"
+" ten articles for $45.00"
+msgstr "团体定价所需的产品数量，例如，一个产品5美元，十个产品45.00美元"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Response"
+msgstr "回复"
+
+msgid "Response to the reviewer"
+msgstr "回复评论人"
+
+msgid "Review"
+msgstr "狀態：已審核"
+
+msgid "Reviewed item"
+msgstr "已评论的产品"
+
+msgid "Reviewer name"
+msgstr "评论人名称"
+
+msgid ""
+"Route name or page ID of the category page if this category should shown on "
+"a different page"
+msgstr "路由名称或页面 ID，如果该类别应显示在不同的页面上。"
+
+msgid ""
+"Route name or page ID of the product detail page if this product should "
+"shown on a different page"
+msgstr "产品详细页面的路线名称或页面 ID，如果该产品应显示在不同的页面上。"
+
+msgid "Route or page ID (optional)"
+msgstr "路由或页面 ID （可选）"
+
+msgid "Rule"
+msgstr "规则"
+
+msgid "Rule Type"
+msgstr "规则类型"
+
+msgid "Rule Types"
+msgstr "规则类型"
+
+msgid "Rule label for describing the configured rule"
+msgstr "规则标签用于描述配置规则"
+
+msgid "Rule position (required)"
+msgstr "规则位置（必须）"
+
+msgid "Rule provider or rule decorator configuration name"
+msgstr "规则提供者或规则装饰器配置名称"
+
+msgid "Rules"
+msgstr "规则"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Sales by weekday"
+msgstr "按工作日業績排序"
+
+msgid "Sales of the last 30 days"
+msgstr "最近30日的業績"
+
+msgid "Sales per month"
+msgstr "每月業績"
+
+msgid "Salutation"
+msgstr "稱呼"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save & Close"
+msgstr "儲存並關閉"
+
+msgid "Save & Copy"
+msgstr "儲存並拷貝"
+
+msgid "Save & New"
+msgstr "保存并新建"
+
+msgid "Save entry (Ctrl+S)"
+msgstr "儲存紀錄（Ctrl+S)"
+
+msgid "Search"
+msgstr "搜尋"
+
+msgid "Second level type for grouping items"
+msgstr "用于分组项目的二级类型"
+
+msgid "Select file"
+msgstr "選擇檔案"
+
+msgid "Service"
+msgstr "服務"
+
+msgid "Service Lists Type"
+msgstr "服務清單類別"
+
+msgid "Service Lists Types"
+msgstr "服務清單類別"
+
+msgid "Service Type"
+msgstr "服務類別"
+
+msgid "Service Types"
+msgstr "服務類別"
+
+msgid "Service attribute code"
+msgstr "服务属性代码"
+
+msgid "Service costs"
+msgstr "服務成本"
+
+msgid "Service name"
+msgstr "服務名稱"
+
+msgid "Service position (required)"
+msgstr "服务位置（必须）"
+
+msgid "Service price"
+msgstr "服務價格"
+
+msgid "Service provider or service decorator configuration name"
+msgstr "服务提供者或服务装饰器配置名称"
+
+msgid "Service rebate"
+msgstr "服务折扣"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Ship date"
+msgstr "出貨日期"
+
+msgid "Ship status"
+msgstr "出貨狀態"
+
+msgid "Shipping"
+msgstr "運送"
+
+msgid "Shipping / Payment costs"
+msgstr "物流/支付 费用"
+
+msgid "Shipping costs/item"
+msgstr "物流费用/条目"
+
+msgid "Shipping/Payment costs"
+msgstr "物流/支付 费用"
+
+msgid "Shipping/item"
+msgstr "物流/条目"
+
+msgid "Shop domain"
+msgstr "商店域名"
+
+msgid "Shop domain (required)"
+msgstr "商店域名（必须）"
+
+msgid "Shop e-mail"
+msgstr "商店电子邮箱"
+
+msgid "Shop e-mail address (required)"
+msgstr "商店电子邮箱（必须）"
+
+msgid "Shop name"
+msgstr "商店名称"
+
+msgid "Shop name (required)"
+msgstr "商店名称（必须）"
+
+msgid "Shop theme"
+msgstr "商店主题"
+
+msgid ""
+"Short state code (e.g. NY) if used in the country the customer is living"
+msgstr "如果在客户居住的国家/地区使用，则为短州代码（例如 NY）"
+
+msgid ""
+"Short state code (e.g. NY) if used in the country the supplier is living"
+msgstr "如果在供应商居住的国家/地区使用，则为短州代码（例如 NY）"
+
+msgid "Show"
+msgstr "顯示"
+
+msgid "Show entry"
+msgstr "顯示紀錄"
+
+msgid "Show search form"
+msgstr "显示搜索表单"
+
+msgid "Show/hide advanced data"
+msgstr "顯示/隱藏進階數據"
+
+msgid "Show/hide details"
+msgstr ""
+
+msgid "Show/hide navigation labels"
+msgstr "显示/隐藏导航标签"
+
+msgid "Show/hide this entry"
+msgstr "顯示/隱藏紀錄"
+
+msgid "Shown if the article reached a stock level of zero"
+msgstr "当产品库存为 0 时显示"
+
+msgid "Since when the product is available, used for sorting in the front-end"
+msgstr "产品何时可用，用于前台排序"
+
+msgid "Site"
+msgstr "分站"
+
+msgid ""
+"Site specific configuration options, will be available as key/value pairs"
+msgstr "站点指定的配置项，将以键/值对使用"
+
+msgid "Site the order was placed at"
+msgstr "下单站点"
+
+msgid "Sites"
+msgstr "站点"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "Sorting of the attributes within the same attribute type"
+msgstr "同一属性类型的属性排序"
+
+msgid "Sorting of the suppliers"
+msgstr ""
+
+msgid "Source of the invoice, e.g. by web or phone"
+msgstr "发票来源，例如网站或手机"
+
+msgid "Start date"
+msgstr "開始日期"
+
+msgid "Start typing ..."
+msgstr "开始输入..."
+
+msgid "State"
+msgstr "州"
+
+msgid "Status"
+msgstr "狀態"
+
+msgid "Stock Type"
+msgstr "库存类型"
+
+msgid "Stock Types"
+msgstr "库存类型"
+
+msgid "Stock level"
+msgstr "庫存量"
+
+msgid "Stock type"
+msgstr "库存类型"
+
+msgid "Street"
+msgstr "街"
+
+msgid "Street name (optional)"
+msgstr "街名（可不填）"
+
+msgid "Sub-total"
+msgstr "小計"
+
+msgid "Subscription"
+msgstr "訂閱"
+
+msgid ""
+"Subscription interval with years, months, weeks and days, e.g. \"P0Y1M2W3D\""
+" for zero years, one month, two weeks and three days"
+msgstr "訂閱間隔：年、月、週、日。如：\"P0Y1M2W3D\"為零年一個月兩週三日"
+
+msgid "Suggested products"
+msgstr "建議商品"
+
+msgid "Sum"
+msgstr "合計"
+
+msgid "Supplier"
+msgstr "供應商"
+
+msgid "Supplier name or company"
+msgstr "供应商名称或公司"
+
+msgid "Supplier position (required)"
+msgstr ""
+
+msgid "Suppliers who manufacture the product"
+msgstr "产品制造商"
+
+msgid "Tag Type"
+msgstr "标签类型"
+
+msgid "Tag Types"
+msgstr "标签类型"
+
+msgid "Tax"
+msgstr "稅"
+
+msgid "Tax rate"
+msgstr "稅率"
+
+msgid "Tax rate in %"
+msgstr "稅率 %"
+
+msgid "Telephone"
+msgstr "電話"
+
+msgid "Telephone number (optional)"
+msgstr "電話（可不填）"
+
+msgid "Temporary folder is missing"
+msgstr "临时目录丢失"
+
+msgid "Text Lists Type"
+msgstr "文本列表类型"
+
+msgid "Text Lists Types"
+msgstr "文本列表类型"
+
+msgid "Text Type"
+msgstr "文本类型"
+
+msgid "Text Types"
+msgstr "文本类型"
+
+msgid ""
+"The article is only shown on the web site after that date and time, useful "
+"or seasonal articles"
+msgstr "该产品只在该日期和时间之后才会显示，适用于季节性产品"
+
+msgid ""
+"The article is only shown on the web site until that date and time, useful "
+"or seasonal articles"
+msgstr "该产品只在该日期和时间之前才会显示，适用于季节性产品"
+
+msgid "The item is only shown on the web site after that date and time"
+msgstr "该产品只在该日期和时间之后才会在网站上显示"
+
+msgid "The item is only shown on the web site until that date and time"
+msgstr "该项目仅在该日期和时间之前显示在网站上"
+
+msgid "The media title is used for the title tag of the media on the web site"
+msgstr "媒体标题用于网站上的 title 标签"
+
+msgid ""
+"The name of the category shown in the URL, will be used if no language "
+"specific URL segment exists"
+msgstr "URL 中显示的类别名称，如果不存在特定语言的 URL 段，则将使用该名称"
+
+msgid ""
+"The name of the product shown in the URL, will be used if no language "
+"specific URL segment exists"
+msgstr "URL 中显示的产品名称，如果不存在特定语言的 URL 段，则将使用该名称"
+
+msgid "The option is only shown on the web site after that date and time"
+msgstr "该选项仅在该日期和时间之后显示在网站上"
+
+msgid "The option is only shown on the web site until that date and time"
+msgstr "该选项仅在该日期和时间之前显示在网站上"
+
+msgid "The rule is only used after that date and time"
+msgstr "该规则仅在该日期和时间之后使用"
+
+msgid "The rule is only used until that date and time"
+msgstr "该规则仅在该日期和时间之前使用"
+
+msgid ""
+"The step value allowed for quantities in the basket, e.g. \"0.1\" for "
+"fractional quantities or \"5\" for multiple of five articles"
+msgstr "购物篮中数量允许的步长值，例如 “0.1”表示小数数量或“5”表示数量应是5的倍数"
+
+msgid "The uploaded file exceeds the max. allowed filesize"
+msgstr "上传的文件大小超出了允许的最大值"
+
+msgid "The uploaded file was only partially uploaded"
+msgstr "文件仅完成了部分上传"
+
+msgid "Theme to change the layout of your shop"
+msgstr "改变商店布局的主题"
+
+msgid "Three letter ISO currency code"
+msgstr "三碼 ISO 幣別碼"
+
+msgid "Time frame (optional)"
+msgstr "时间范围（可选）"
+
+msgid "Timestamp"
+msgstr "時間戳"
+
+msgid "Title"
+msgstr "標題"
+
+msgid "Toggle dropdown"
+msgstr "切换下拉"
+
+msgid "Top countries"
+msgstr "热门国家"
+
+msgid "Total"
+msgstr "合計"
+
+msgid "Total orders"
+msgstr "总订单"
+
+msgid "Total orders within the last seven days compared to the period before"
+msgstr "过去7天内的总订单对比上期"
+
+msgid "Total ratings"
+msgstr "总评分"
+
+msgid "Translate text"
+msgstr "翻译文本"
+
+msgid "Two letter ISO country code"
+msgstr "兩碼 ISO 國家碼"
+
+msgid "Two letter ISO language code"
+msgstr "兩碼 ISO 語言碼"
+
+msgid "Type"
+msgstr "類別"
+
+msgid "Type position (optional)"
+msgstr "类型位置（可选）"
+
+msgid "Types for additional images like icons"
+msgstr "额外的图像类型，图标等附加图像的类型"
+
+msgid "Types for additional prices like per one lb/kg or per month"
+msgstr "额外的价格类型，每 lb/kg 或每月等附加价格类型"
+
+msgid "Types for additional texts like per one lb/kg or per month"
+msgstr "额外文本的类型，如每一磅/公斤或每月的类型"
+
+msgid "URL of the customer web site"
+msgstr "客戶網站網址"
+
+msgid "URL of the supplier web site"
+msgstr "供應商網站網址"
+
+msgid "URL segment"
+msgstr "URL片段"
+
+msgid "URL target"
+msgstr "URL target"
+
+#, php-format
+msgid "Unable to call method \"%1$s\""
+msgstr "無法呼叫method \"%1$s\""
+
+msgid "Unfinished orders"
+msgstr "未完成订单"
+
+msgid ""
+"Unfinished orders within the last seven days compared to the period before"
+msgstr "最近7天未完成订单对比上期"
+
+msgid ""
+"Unique article code related to stock levels, e.g. from the ERP system, an "
+"EAN/GTIN number or self invented"
+msgstr "与库存水平有关的唯一物品编码，例如来自ERP系统、EAN/GTIN号码或自创的编码。"
+
+msgid "Unique attribute code (required)"
+msgstr "唯一属性代码（必须）"
+
+msgid "Unique attribute code, e.g. \"green\" for attributes of type \"color\""
+msgstr "唯一属性代码，例如颜色属性的绿色“green”"
+
+msgid "Unique category code (required)"
+msgstr "唯一分类代码（必须）"
+
+msgid "Unique category code, either from external system or self-invented"
+msgstr "唯一的类别代码，可以来自外部系统，也可以是自创的"
+
+msgid "Unique code (required)"
+msgstr "獨特的代碼(必填)"
+
+msgid "Unique code to identify the service, usually self-invented"
+msgstr "识别服务的唯一代码，通常是自创的"
+
+msgid "Unique customer account name"
+msgstr "唯一客户账户名"
+
+msgid "Unique customer e-mail address"
+msgstr "唯一客户电子邮箱"
+
+msgid "Unique group code (required)"
+msgstr "唯一分组代码（必须）"
+
+msgid "Unique service code (required)"
+msgstr "唯一服务代码（必须）"
+
+msgid "Unique site code (required)"
+msgstr "唯一站点代码（必须）"
+
+msgid "Unique supplier code"
+msgstr "唯一供应商代码"
+
+msgid "Unique type code"
+msgstr "唯一类型代码"
+
+msgid "Unique type code (required)"
+msgstr "唯一类型代码（必须）"
+
+msgid "Unique type code, e.g. \"color\" for attributes like \"green\", \"blue\", \"red\""
+msgstr "独特的类型代码，例如，\"绿色\"、\"蓝色\"、\"红色 \"等属性的 \"颜色\"。"
+
+msgid "Unit price"
+msgstr ""
+
+msgid "Unknown upload error"
+msgstr "未知的上传错误"
+
+msgid "Upload shop icon"
+msgstr "上传商店图标"
+
+msgid "Upload shop logo"
+msgstr "上传商店 logo"
+
+msgid "Uploaded"
+msgstr "已上傳"
+
+msgid "User groups"
+msgstr "用戶群組"
+
+msgid "Usual time frame for the delivery of the product"
+msgstr "常规的产品交付实效"
+
+msgid "VAT ID"
+msgstr "VAT ID"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Value added tax identifier (optional)"
+msgstr "增值税标识符（可选）"
+
+msgid "Variant attributes"
+msgstr "變量屬性"
+
+msgid "Variant product attributes that are stored with the ordered products"
+msgstr "与下单产品一起存储的变体产品属性"
+
+msgid "Verified"
+msgstr ""
+
+msgid "View details"
+msgstr "查看详细"
+
+msgid "Voucher"
+msgstr "代金券"
+
+msgid ""
+"Warehouse or local store if your articles are available at several locations"
+msgstr "如果你的产品在几个地方都能买到的话，可以是仓库或当地商店"
+
+msgid "Web site"
+msgstr "網站"
+
+msgid "Web site URL (optional)"
+msgstr "網站 URL (可不填)"
+
+msgid "Weeks"
+msgstr "週"
+
+msgid "Weight"
+msgstr "重量"
+
+msgid "When the account and e-mail address has been verified"
+msgstr ""
+
+msgid "Width"
+msgstr "寬度"
+
+msgid "YYYY-MM-DD hh:mm:ss (optional)"
+msgstr "YYYY-MM-DD hh:mm:ss (選填)"
+
+msgid "Years"
+msgstr "年"
+
+msgid "You are going to delete one or more items. Would you like to proceed?"
+msgstr "你將要刪除一個或多個項目, 確定嗎？"
+
+msgid "Your export will be available in a few minutes for download"
+msgstr "您的导出将在几分钟内提供下载。"
+
+msgid "Your response"
+msgstr "您的回复"
+
+msgid "Zip code"
+msgstr "Zip code"
+
+msgid "Zip code (optional)"
+msgstr "郵遞區號（可不填）"
+
+msgid "__hidden__"
+msgstr ""
+
+#, php-format
+msgid "account"
+msgstr "账户"
+
+#, php-format
+msgid "address"
+msgstr "地址"
+
+msgid "address:delivery"
+msgstr "配送地址"
+
+msgid "address:payment"
+msgstr "帳單地址"
+
+#, php-format
+msgid "attribute"
+msgstr "屬性"
+
+#, php-format
+msgid "basket"
+msgstr ""
+
+#, php-format
+msgid "bundle"
+msgstr "組合包"
+
+#, php-format
+msgid "catalog"
+msgstr "商品型錄"
+
+#, php-format
+msgid "category"
+msgstr "商品型錄"
+
+#, php-format
+msgid "characteristic"
+msgstr "特色"
+
+#, php-format
+msgid "code"
+msgstr "代碼"
+
+msgid "company"
+msgstr "公司"
+
+#, php-format
+msgid "configuration"
+msgstr "配置"
+
+#, php-format
+msgid "countcountry"
+msgstr "国家计数"
+
+#, php-format
+msgid "countday"
+msgstr "按日排序"
+
+#, php-format
+msgid "counthour"
+msgstr "按小時排序"
+
+#, php-format
+msgid "countpaystatus"
+msgstr "按付費狀態排序"
+
+#, php-format
+msgid "coupon"
+msgstr "代金券"
+
+#, php-format
+msgid "customer"
+msgstr "客户"
+
+#, php-format
+msgid "dashboard"
+msgstr "儀表板"
+
+#, php-format
+msgid "day"
+msgstr "按天"
+
+#, php-format
+msgid "deliverytype"
+msgstr "按运输类型"
+
+#, php-format
+msgid "download"
+msgstr "付费下载"
+
+#, php-format
+msgid "goods"
+msgstr "商品型錄"
+
+#, php-format
+msgid "group"
+msgstr "分组"
+
+#, php-format
+msgid "hour"
+msgstr "按小时"
+
+#, php-format
+msgid "image"
+msgstr "圖片"
+
+#, php-format
+msgid "invoice"
+msgstr "发票"
+
+#, php-format
+msgid "latest"
+msgstr "最新"
+
+#, php-format
+msgid "locale"
+msgstr "本地化"
+
+#, php-format
+msgid "locale/currency"
+msgstr "幣別"
+
+#, php-format
+msgid "locale/language"
+msgstr "語言"
+
+#, php-format
+msgid "locale/site"
+msgstr "站点"
+
+#, php-format
+msgid "log"
+msgstr "Logs"
+
+#, php-format
+msgid "marketing"
+msgstr "市场"
+
+#, php-format
+msgid "media"
+msgstr "媒體"
+
+msgid "miss"
+msgstr "小姐"
+
+msgid "mr"
+msgstr "先生"
+
+msgid "mrs"
+msgstr "女士"
+
+msgid "ms"
+msgstr "毫秒"
+
+msgid "new"
+msgstr "新"
+
+msgid "no"
+msgstr "不"
+
+msgid "none"
+msgstr "無"
+
+msgid "not available any more"
+msgstr "不再可用"
+
+#, php-format
+msgid "option"
+msgstr "選項"
+
+#, php-format
+msgid "order"
+msgstr "訂單"
+
+msgid "order:phone"
+msgstr "电话"
+
+msgid "order:web"
+msgstr "互联网"
+
+msgid "pay:-1"
+msgstr "尚未完成"
+
+msgid "pay:0"
+msgstr "已删除"
+
+msgid "pay:1"
+msgstr "取消"
+
+msgid "pay:2"
+msgstr "被拒絕"
+
+msgid "pay:3"
+msgstr "已退款"
+
+msgid "pay:4"
+msgstr "處理中"
+
+msgid "pay:5"
+msgstr "已授權"
+
+msgid "pay:6"
+msgstr "已收款"
+
+msgid "pay:7"
+msgstr "支付：7"
+
+#, php-format
+msgid "paymentstatus"
+msgstr "按支付状态"
+
+#, php-format
+msgid "paymenttype"
+msgstr "按支付类型"
+
+#, php-format
+msgid "physical"
+msgstr "实体的"
+
+#, php-format
+msgid "plugin"
+msgstr "插件"
+
+#, php-format
+msgid "price"
+msgstr "價格"
+
+#, php-format
+msgid "product"
+msgstr "商品"
+
+#, php-format
+msgid "property"
+msgstr "屬性"
+
+#, php-format
+msgid "quick/countcompleted"
+msgstr "快速/计数完成"
+
+#, php-format
+msgid "quick/countcustomer"
+msgstr "快速/计数客户"
+
+#, php-format
+msgid "quick/counttotal"
+msgstr "快速/计数总数"
+
+#, php-format
+msgid "quick/countunfinished"
+msgstr "快速/计数未完成"
+
+msgid "reason:-1"
+msgstr "失败的"
+
+msgid "reason:0"
+msgstr "已结束"
+
+msgid "reason:1"
+msgstr "取消"
+
+#, php-format
+msgid "related"
+msgstr "商品"
+
+#, php-format
+msgid "review"
+msgstr "評論"
+
+#, php-format
+msgid "rule"
+msgstr "价格规则"
+
+#, php-format
+msgid "sales"
+msgstr "销售"
+
+#, php-format
+msgid "salesweekday"
+msgstr "按工作日業績排序"
+
+msgid "selected"
+msgstr ""
+
+#, php-format
+msgid "selection"
+msgstr "變量"
+
+#, php-format
+msgid "service"
+msgstr "服務"
+
+#, php-format
+msgid "servicedelivery"
+msgstr "根据运输类型"
+
+#, php-format
+msgid "servicepayment"
+msgstr "按支付类型"
+
+#, php-format
+msgid "settings"
+msgstr "设置"
+
+#, php-format
+msgid "setup"
+msgstr "建立"
+
+#, php-format
+msgid "special"
+msgstr "特別"
+
+msgid "stat:-1"
+msgstr "尚未完成"
+
+msgid "stat:0"
+msgstr "已删除"
+
+msgid "stat:1"
+msgstr "處理中"
+
+msgid "stat:2"
+msgstr "程序進行中"
+
+msgid "stat:3"
+msgstr "已出貨"
+
+msgid "stat:4"
+msgstr "已送達"
+
+msgid "stat:5"
+msgstr "遺失"
+
+msgid "stat:6"
+msgstr "被拒絕"
+
+msgid "stat:7"
+msgstr "被退貨"
+
+msgid "status:-1"
+msgstr "已归档"
+
+msgid "status:-2"
+msgstr "审核"
+
+msgid "status:0"
+msgstr "已禁用"
+
+msgid "status:1"
+msgstr "已启用"
+
+msgid "status:2"
+msgstr "状态：2"
+
+#, php-format
+msgid "stock"
+msgstr "庫存"
+
+#, php-format
+msgid "subscription"
+msgstr "訂閱"
+
+#, php-format
+msgid "supplier"
+msgstr "供應商"
+
+msgid "tag"
+msgstr "標籤"
+
+msgid "tax:0"
+msgstr ""
+
+msgid "tax:1"
+msgstr ""
+
+#, php-format
+msgid "text"
+msgstr "文本"
+
+#, php-format
+msgid "theme"
+msgstr ""
+
+#, php-format
+msgid "transaction"
+msgstr ""
+
+#, php-format
+msgid "type"
+msgstr "類別"
+
+#, php-format
+msgid "type/attribute"
+msgstr "屬性"
+
+#, php-format
+msgid "type/attribute/lists"
+msgstr "属性列表"
+
+#, php-format
+msgid "type/attribute/property"
+msgstr "属性特性"
+
+#, php-format
+msgid "type/catalog/lists"
+msgstr "目录列表"
+
+#, php-format
+msgid "type/customer/lists"
+msgstr "客户列表"
+
+#, php-format
+msgid "type/customer/property"
+msgstr "客户特性"
+
+#, php-format
+msgid "type/media"
+msgstr "媒體"
+
+#, php-format
+msgid "type/media/lists"
+msgstr "媒體清單"
+
+#, php-format
+msgid "type/media/property"
+msgstr "媒体特性"
+
+#, php-format
+msgid "type/plugin"
+msgstr "插件"
+
+#, php-format
+msgid "type/price"
+msgstr "價格"
+
+#, php-format
+msgid "type/price/lists"
+msgstr "價格清單"
+
+#, php-format
+msgid "type/price/property"
+msgstr "类型/价格/特性"
+
+#, php-format
+msgid "type/product"
+msgstr "商品"
+
+#, php-format
+msgid "type/product/lists"
+msgstr "價格清單"
+
+#, php-format
+msgid "type/product/property"
+msgstr "产品特性"
+
+#, php-format
+msgid "type/rule"
+msgstr "类型/规则"
+
+#, php-format
+msgid "type/service"
+msgstr "服務"
+
+#, php-format
+msgid "type/service/lists"
+msgstr "服務清單"
+
+#, php-format
+msgid "type/stock"
+msgstr "庫存"
+
+#, php-format
+msgid "type/tag"
+msgstr "標籤"
+
+#, php-format
+msgid "type/text"
+msgstr "文本"
+
+#, php-format
+msgid "type/text/lists"
+msgstr "文字清單"
+
+#, php-format
+msgid "users"
+msgstr "用戶"
+
+msgid "yes"
+msgstr "是"

@@ -1,0 +1,975 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# António Almeida <promatik@gmail.com>, 2019
+# Antonio Sequeira <antonio.sequeira@adanora.pt>, 2022,2024
+# b5fdd37cec45d8078af7e530465bb050, 2016
+# Rui Gomes, 2023
+# Rui Gomes, 2023
+# b5fdd37cec45d8078af7e530465bb050, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: aimeos-core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-12 19:06+0200\n"
+"PO-Revision-Date: 2015-07-09 20:33+0000\n"
+"Last-Translator: Antonio Sequeira <antonio.sequeira@adanora.pt>, 2022,2024\n"
+"Language-Team: Portuguese (http://app.transifex.com/aimeos/aimeos-core/language/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#, php-format
+msgid "%1$d article"
+msgid_plural "%1$d articles"
+msgstr[0] "%1$d item"
+msgstr[1] "%1$d itens"
+msgstr[2] "%1$d  artigos"
+
+#, php-format
+msgid "%1$d review"
+msgid_plural "%1$d reviews"
+msgstr[0] "%1$davaliação"
+msgstr[1] "%1$davaliações"
+msgstr[2] "%1$d avaliações"
+
+#, php-format
+msgid ""
+"%1$s\n"
+"%2$s %3$s %4$s %5$s\n"
+"%6$s %7$s\n"
+"%8$s\n"
+"%9$s %10$s\n"
+"%11$s\n"
+"%12$s\n"
+"%13$s\n"
+"%14$s\n"
+"%15$s\n"
+"%16$s\n"
+"%17$s\n"
+"%18$s\n"
+msgstr "%1$s\n%2$s %3$s %4$s %5$s\n%6$s %7$s\n%8$s\n%9$s %10$s\n%11$s\n%12$s\n%13$s\n%14$s\n%15$s\n%16$s\n%17$s\n%18$s\n"
+
+#, php-format
+msgid ""
+"%1$s\n"
+"%2$s %3$s %4$s %5$s\n"
+"%6$s %7$s\n"
+"%8$s\n"
+"%9$s %10$s\n"
+"%11$s\n"
+"%12$s\n"
+"%13$s\n"
+"%14$s\n"
+"%15$s\n"
+"%16$s\n"
+"%17$s\n"
+"%18$s\n"
+"%19$s\n"
+msgstr ""
+
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#, php-format
+msgid "%1$s %2$s off"
+msgstr "%1$s %2$s off"
+
+#, php-format
+msgid "%1$s (%4$s%2$s%3$s)"
+msgstr ""
+
+#, php-format
+msgid "%1$s article"
+msgid_plural "%1$s articles"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s em %2$s"
+
+#, php-format
+msgid "%1$s%3$s + %2$s%3$s"
+msgstr "%1$s%3$s + %2$s%3$s"
+
+msgid "(opens in new window)"
+msgstr ""
+
+#, php-format
+msgid "+ %1$s %2$s"
+msgstr ""
+
+#, php-format
+msgid "+ %1$s%% %2$s"
+msgstr "+ %1$s%% %2$s"
+
+#, php-format
+msgid "+ %1$s%% VAT"
+msgstr "+ %1$s%% impostos"
+
+msgid "+1 123 456 7890"
+msgstr "+1 123 456 7890"
+
+#, php-format
+msgid "-%1$s%%"
+msgstr "-%1$s%%"
+
+msgid "A non-recoverable error occured"
+msgstr "Ocorreu um erro não recuperável"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Add billing address"
+msgstr "Inclua um endereço de faturação"
+
+msgid "Add delivery address"
+msgstr ""
+
+msgid "Add to basket"
+msgstr "Adicionar ao carrinho"
+
+msgid "Additional"
+msgstr "Adicional"
+
+msgid "Additional 2"
+msgstr "Adicional 2"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Article"
+msgstr " Artigo"
+
+msgid "Article no."
+msgstr " Artigo nº"
+
+#, php-format
+msgid "At least one billing address part is missing or invalid"
+msgstr "Pelo menos uma parte do endereço de faturação está em falta ou é inválida"
+
+#, php-format
+msgid "At least one delivery address part is missing or invalid"
+msgstr "Pelo menos uma parte do endereço de entrega está em falta ou é inválida"
+
+#, php-format
+msgid "At least one payment address part is missing or invalid"
+msgstr ""
+
+msgid "At least one product couldn't be added to the basket."
+msgstr ""
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "Basket"
+msgstr "Carrinho"
+
+msgid "Basket details"
+msgstr "Detalhes do carrinho"
+
+msgid "Basket name"
+msgstr "Nome do carrinho"
+
+msgid "Basket saved sucessfully"
+msgstr "Carrinho gravado com sucesso"
+
+msgid "Billing address"
+msgstr "Endereço de faturação"
+
+#, php-format
+msgid "Billing address part \"%1$s\" is invalid"
+msgstr "Parte \"%1$s\" do endereço de faturação é inválida"
+
+#, php-format
+msgid "Billing address part \"%1$s\" is missing"
+msgstr "Parte \"%1$s\" do endereço de faturação está em falta"
+
+msgid "Birthday"
+msgstr "Aniversário"
+
+msgid "Breadcrumb navigation"
+msgstr "Navegação"
+
+msgid "Bulk order"
+msgstr "Pedido em massa"
+
+msgid "Bundled products"
+msgstr "Produtos em pacotes"
+
+msgid "Buy now"
+msgstr "Comprar agora"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Change"
+msgstr "Alterar"
+
+msgid "Change address"
+msgstr ""
+
+msgid "Change billing address"
+msgstr ""
+
+msgid "Change coupons"
+msgstr ""
+
+msgid "Change delivery"
+msgstr ""
+
+msgid "Change delivery address"
+msgstr ""
+
+msgid "Change payment"
+msgstr "Alterar pagamento"
+
+msgid "Change products"
+msgstr ""
+
+msgid "Characteristics"
+msgstr "Características"
+
+msgid "Checkout"
+msgstr "Finalizar compra"
+
+msgid "City"
+msgstr "Cidade"
+
+#, php-format
+msgid "Class \"%1$s\" not found"
+msgstr "Classe \"%1$s\" não encontrada"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Company"
+msgstr "Empresa"
+
+msgid "Confirmation"
+msgstr "Confirmação"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Coupon codes"
+msgstr "Cupões"
+
+msgid "Coupons"
+msgstr "Cupões"
+
+msgid "Create a customer account for me"
+msgstr "Criar uma conta de cliente"
+
+msgid "Created"
+msgstr "Criado"
+
+msgid "Customer account"
+msgstr "Conta do cliente"
+
+msgid "Decrease"
+msgstr ""
+
+msgid "Delete"
+msgstr "Remover"
+
+msgid "Delete item"
+msgstr "Remover item"
+
+msgid "Delivery"
+msgstr "Entrega"
+
+msgid "Delivery address"
+msgstr "Endereço de entrega"
+
+#, php-format
+msgid "Delivery address deleted successfully"
+msgstr "Endereço de entrega removido com sucesso"
+
+#, php-format
+msgid "Delivery address part \"%1$s\" is invalid"
+msgstr "Parte \"%1$s\" do endereço de entrega é inválida"
+
+#, php-format
+msgid "Delivery address part \"%1$s\" is missing"
+msgstr "Parte \"%1$s\" do endereço de entrega está faltando"
+
+msgid "Delivery within"
+msgstr "Entrega em"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Details"
+msgstr "Detalhes"
+
+msgid "Don't store address"
+msgstr "Não gravar endereço"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "E-Mail"
+msgstr "E-mail"
+
+msgid "End date"
+msgstr "Data final"
+
+msgid "Favorite products"
+msgstr "Produtos favoritos"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Fields with an * are mandatory"
+msgstr "Os campos com * são obrigatórios"
+
+msgid "Filter"
+msgstr "Filtro"
+
+msgid "First"
+msgstr "Primeiro"
+
+msgid "First name"
+msgstr "Nome"
+
+msgid "Found products"
+msgstr "Produtos encontrados"
+
+msgid "GB999999973"
+msgstr "GB999999973"
+
+msgid "Go to page"
+msgstr "Ir para a página"
+
+msgid "Grid view"
+msgstr "Vista de grelha"
+
+msgid "HH:mm"
+msgstr "HH:mm"
+
+msgid "Highest price"
+msgstr "Preço mais alto"
+
+#, php-format
+msgid ""
+"I accept the <a href=\"%1$s\" target=\"_blank\" title=\"terms and conditions"
+" (opens in new tab)\">terms and conditions</a>, <a href=\"%2$s\" "
+"target=\"_blank\" title=\"privacy policy (opens in new tab)\">privacy "
+"policy</a> and <a href=\"%3$s\" target=\"_blank\" title=\"cancellation "
+"policy (opens in new tab)\">cancellation policy</a>"
+msgstr ""
+
+#, php-format
+msgid ""
+"I accept the <a href=\"%1$s\" target=\"_blank\" title=\"terms and "
+"conditions\" alt=\"terms and conditions\">terms and conditions</a>, <a "
+"href=\"%2$s\" target=\"_blank\" title=\"privacy policy\" alt=\"privacy "
+"policy\">privacy policy</a> and <a href=\"%3$s\" target=\"_blank\" "
+"title=\"cancellation policy\" alt=\"cancellation policy\">cancellation "
+"policy</a>"
+msgstr "Eu aceito os <a href=\"%1$s\" target=\"_blank\" title=\"terms and conditions\" alt=\"terms and conditions\">termos e condições</a>, <a href=\"%2$s\" target=\"_blank\" title=\"privacy policy\" alt=\"privacy policy\">política de privacidade</a> e a <a href=\"%3$s\" target=\"_blank\" title=\"cancellation policy\" alt=\"cancellation policy\">política de cancelamento</a>"
+
+msgid "If back in stock"
+msgstr "Se tiver em estoque"
+
+msgid "If price decreases"
+msgstr "Se o preço baixar"
+
+#, php-format
+msgid "Incl. %1$s%% %2$s"
+msgstr " incl. %1$s %% %2$s"
+
+#, php-format
+msgid "Incl. %1$s%% VAT"
+msgstr "Incl. %1$s%% impostos"
+
+msgid "Included rebates"
+msgstr "Descontos incluídos"
+
+msgid "Increase"
+msgstr ""
+
+msgid "Interval"
+msgstr "Intervalo"
+
+#, php-format
+msgid "Invalid characters in client name \"%1$s\""
+msgstr "Caracteres inválidos no nome do cliente \"%1$s\""
+
+#, php-format
+msgid "Invalid class name \"%1$s\""
+msgstr "Nome de classe inválido \"%1$s\""
+
+#, php-format
+msgid "Invalid domain \"%1$s\""
+msgstr "Domínio \"%1$s\" inválido"
+
+msgid "Invoice"
+msgstr "Fatura"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Last"
+msgstr "Último"
+
+msgid "Last name"
+msgstr "Sobrenome"
+
+msgid "Last seen"
+msgstr "Vistos recentemente"
+
+msgid "Latest"
+msgstr "Último"
+
+msgid "Less"
+msgstr ""
+
+msgid "List view"
+msgstr "Vista de lista"
+
+msgid "Lowest price"
+msgstr "Preço mais baixo"
+
+msgid "Mobile"
+msgstr "Telemóvel"
+
+msgid "Mobile number"
+msgstr "Numero telemóvel"
+
+msgid "More"
+msgstr "Mais"
+
+msgid "More reviews"
+msgstr "Mais avaliações"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "New delivery address"
+msgstr "Novo endereço de entrega"
+
+msgid "Next"
+msgstr "Próximo"
+
+msgid "Next order"
+msgstr "Próximo pedido"
+
+#, php-format
+msgid ""
+"No articles found for <span class=\"searchstring\">\"%1$s\"</span>. Please "
+"try again with a different keyword."
+msgstr "Nenhum  artigo encontrado para <span class=\"searchstring\">\"%1$s\"</span>. Por favor, tente novamente com outra palavra-chave."
+
+msgid "No order ID available in session"
+msgstr "Não existe número de encomenda disponivel nesta sessão"
+
+#, php-format
+msgid "No view available"
+msgstr "Sem visualização disponível"
+
+msgid "One month"
+msgstr "Um mês"
+
+msgid "One week"
+msgstr "Uma semana"
+
+msgid "Open submenu"
+msgstr "Abrir sub-menu"
+
+msgid "Order ID"
+msgstr "ID do Pedido"
+
+msgid "Order details"
+msgstr "Detalhes do pedido"
+
+msgid "Order history"
+msgstr "Histórico do pedido"
+
+msgid "Order status"
+msgstr "Status do pedido"
+
+msgid "Other customers also bought"
+msgstr "Outros clientes também compraram"
+
+#, php-format
+msgid "Page %1$d of %2$d"
+msgstr "Página %1$d de %2$d"
+
+msgid "Pay now"
+msgstr "Pagar agora"
+
+msgid "Payment"
+msgstr "Pagamento"
+
+msgid "Payment costs"
+msgstr "Custos de pagamento"
+
+msgid "Payment status"
+msgstr "Status de pagamento"
+
+msgid "Percentage"
+msgstr ""
+
+msgid "Pin product"
+msgstr "Marcar produto"
+
+msgid "Pinned products"
+msgstr "Produtos marcados"
+
+msgid "Please accept the terms and conditions"
+msgstr "Por favor aceite os termos e condições"
+
+msgid "Please check your order"
+msgstr "Por favor, verifique seu pedido"
+
+msgid "Please choose your delivery method"
+msgstr "Por favor, escolha o método de entrega"
+
+msgid "Please choose your payment method"
+msgstr "Por favor, escolha o método de pagamento"
+
+msgid "Please enter at least three characters"
+msgstr "Por favor, informe pelo menos três caracteres"
+
+msgid "Please enter your payment details"
+msgstr "Por favor, insira os detalhes do pagamento"
+
+msgid "Please select"
+msgstr "Por favor selecione o modelo"
+
+msgid "Postal code"
+msgstr "Código postal"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Price"
+msgstr "Preço"
+
+msgid "Price filter"
+msgstr "Filtro preço"
+
+msgid "Price range"
+msgstr "Intervalo de preços"
+
+msgid "Proceed"
+msgstr "Prosseguir"
+
+msgid "Processing the payment failed"
+msgstr "O processamento do pagamento falhou"
+
+msgid "Product"
+msgstr "Produto"
+
+msgid "Product actions"
+msgstr "Acções produto"
+
+msgid "Product attributes"
+msgstr "Atributos do produto"
+
+msgid "Product categories"
+msgstr "Categorias do produto"
+
+msgid "Product characteristics"
+msgstr "Caracteristicas do produto"
+
+msgid "Product description"
+msgstr "Descrição do produto"
+
+msgid "Product downloads"
+msgstr ""
+
+msgid "Product filters"
+msgstr "Filtro produto"
+
+msgid "Product image"
+msgstr "Imagem do produto"
+
+msgid "Product information"
+msgstr "Informação do produto"
+
+msgid "Product price"
+msgstr "Preço do produto"
+
+msgid "Product reviews"
+msgstr "Review do produto"
+
+msgid "Product search"
+msgstr "Procurar produto"
+
+msgid "Products you might be also interested in"
+msgstr "Produtos que talvez lhe interesse"
+
+msgid "Qty"
+msgstr "Qtd"
+
+msgid "Quantity"
+msgstr "Quantidade"
+
+msgid "Rating"
+msgstr "Avaliação"
+
+msgid "Reference"
+msgstr "Referência"
+
+msgid "Relevance"
+msgstr "Relevância"
+
+msgid "Remove"
+msgstr ""
+
+msgid "Reset"
+msgstr "Limpar"
+
+#, php-format
+msgid "Result for \"%1$s\""
+msgstr "Resultados para \"%1$s\""
+
+msgid "Reviews"
+msgstr "Avaliações"
+
+msgid "SKU or article name"
+msgstr "Código ou nome do artigo"
+
+msgid "Sale"
+msgstr "Saldo"
+
+msgid "Salutation"
+msgstr "Saudação"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Saved basket removed sucessfully"
+msgstr "Carrinho guardado eliminado com sucesso"
+
+msgid "Saved baskets"
+msgstr "Guardar carrinho"
+
+msgid "Search"
+msgstr "Pesquisar"
+
+#, php-format
+msgid "Search result for <span class=\"searchstring\">\"%1$s\"</span> (%2$d article)"
+msgid_plural ""
+"Search result for <span class=\"searchstring\">\"%1$s\"</span> (%2$d "
+"articles)"
+msgstr[0] "Resultado da busca por  <span class=\"searchstring\">\"%1$s\"</span> (%2$d item)"
+msgstr[1] "Resultado da busca por  <span class=\"searchstring\">\"%1$s\"</span> (%2$d itens)"
+msgstr[2] "Resultado da busca por  <span class=\"searchstring\">\"%1$s\"</span> (%2$d itens)"
+
+msgid "Select country"
+msgstr "Selecionar país"
+
+msgid "Select currency"
+msgstr "Selecionar moeda"
+
+msgid "Select language"
+msgstr "Selecionar idioma"
+
+msgid "Select salutation"
+msgstr "Selecione a saudação"
+
+msgid "Select state"
+msgstr "Selecione o estado"
+
+msgid "Share"
+msgstr "Partilhar"
+
+msgid "Shipping"
+msgstr "Envio"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Sort by"
+msgstr "Ordenar por"
+
+msgid "Sort by:"
+msgstr "Ordenar por:"
+
+msgid "Stars"
+msgstr ""
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Stock"
+msgstr "Stock"
+
+#, php-format
+msgid "Stock: %1$s, %2$s"
+msgstr "Stock: %1$s, %2$s"
+
+#, php-format
+msgid "Stock: %1$s, %2$s, back on %3$s"
+msgstr "Stock: %1$s, %2$s, de volta em %3$s"
+
+msgid "Street"
+msgstr "Rua"
+
+msgid "Sub-total"
+msgstr "Sub-total"
+
+msgid "Submit"
+msgstr "Submeter"
+
+msgid "Subscription ID"
+msgstr "ID da subscrição"
+
+msgid "Subscription details"
+msgstr "Detalhes da subscrição"
+
+msgid "Subscriptions"
+msgstr "Subscrições"
+
+msgid "Suggested products"
+msgstr "Produtos sugeridos"
+
+msgid "Sum"
+msgstr "Soma"
+
+msgid "Supplier information"
+msgstr "Informação do fornecedor"
+
+msgid "Supplier list"
+msgstr "Lista de fornecedores"
+
+msgid "Suppliers"
+msgstr "Fornecedores"
+
+msgid "Take a look"
+msgstr "Veja"
+
+msgid "Telephone"
+msgstr "Telefone"
+
+msgid "Terms and conditions"
+msgstr "Termos e condições"
+
+msgid ""
+"Thank you for your order and authorizing the payment.\n"
+"An e-mail with the order details will be sent to you within the next few minutes."
+msgstr "Obrigado pelo seu pedido e por autorizar o pagamento.\nEm breve lhe será enviado um e-mail com os detalhes do pedido."
+
+msgid ""
+"Thank you for your order.\n"
+"We received your payment and an e-mail with the order details will be sent to you within the next few minutes."
+msgstr "Obrigado pelo seu pedido.\nRecebemos seu pagamento e em breve será enviado um e-mail com os detalhes do pedido."
+
+msgid "Thank you for your review!"
+msgstr "Obrigado pela sua avaliação!"
+
+msgid ""
+"The order was canceled.\n"
+"Do you wish to retry your order?"
+msgstr "O pedido foi cancelado.\nDeseja refazer seu pedido?"
+
+msgid ""
+"The payment confirmation for your order is still pending.\n"
+"You will get an e-mail as soon as the payment is authorized."
+msgstr "A confirmação de pagamento do seu pedido ainda está pendente.\nVocê irá receber um e-mail assim que o pagamento for autorizado."
+
+msgid "Three month"
+msgstr "Três meses"
+
+msgid "Time frame"
+msgstr "Prazo"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Toggle fullscreen"
+msgstr "Alternar modo de ecrã inteiro"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Try again"
+msgstr "Tentar novamente"
+
+msgid "Two weeks"
+msgstr "Duas semanas"
+
+#, php-format
+msgid "Unable to create an account: %1$s"
+msgstr "Incapaz de criar uma conta: \"%1$s\""
+
+#, php-format
+msgid "Unable to save address for customer \"%1$s\": %2$s"
+msgstr "Não foi possivel gravar o endereço do cliente \"%1$s\": %2$s"
+
+msgid ""
+"Unfortunately, the payment for your order was refused.\n"
+"Do you wish to retry?"
+msgstr "Infelizmente o pagamento do seu pedido foi recusado.\nDeseja tentar novamente?"
+
+msgid "Update"
+msgstr "Atualizar"
+
+msgid "Variant"
+msgstr "Variante"
+
+msgid "Vat ID"
+msgstr "Contribuinte"
+
+msgid "Vendor response"
+msgstr "Resposta do vendedor"
+
+msgid "Watch"
+msgstr "Acompanhar"
+
+msgid "Watched products"
+msgstr "Produtos acompanhados"
+
+msgid "Web site"
+msgstr "Site"
+
+msgid "What do you think about the product"
+msgstr "O que acha do produto"
+
+msgid "Y-m-d"
+msgstr "Y-m-d"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "YYYY-MM-DD HH:mm"
+msgstr "YYYY-MM-DD HH:mm"
+
+msgid "You are here:"
+msgstr "Você está aqui:"
+
+#, php-format
+msgid "You can only save up to %1$s products as favorites"
+msgstr "Apenas pode guardar até %1$s produtos como favoritos"
+
+#, php-format
+msgid "You can only watch up to %1$s products"
+msgstr "Apenas pode acompanhar até %1$s produtos"
+
+msgid "You must log in first"
+msgstr "Tem de se autenticar primeiro"
+
+msgid "You will now be forwarded to the next step"
+msgstr "Você será direcionado para o próximo passo"
+
+msgid "Your choice"
+msgstr "Sua escolha"
+
+msgid "Your comment"
+msgstr "O seu comentário"
+
+msgid "Your rating"
+msgstr "A sua avaliação"
+
+msgid "Your reference"
+msgstr "A sua referência"
+
+msgid "Your reference number"
+msgstr "A sua referência"
+
+msgid "Your review"
+msgstr "A sua avaliação"
+
+msgid "Zoom in/out"
+msgstr "Aumentar/diminuir zoom"
+
+#, php-format
+msgid "address"
+msgstr "endereço"
+
+#, php-format
+msgid "delivery"
+msgstr "entrega"
+
+msgid "favorite"
+msgstr "adicionar aos favoritos"
+
+#, php-format
+msgid "from %1$s"
+msgstr "de %1$s"
+
+msgid "like billing address"
+msgstr "igual ao endereço de faturação"
+
+msgid "new address"
+msgstr "novo endereço"
+
+msgid "none"
+msgstr "nenhum"
+
+msgid "on request"
+msgstr "a pedido"
+
+#, php-format
+msgid "payment"
+msgstr "pagamento"
+
+msgid "pin"
+msgstr "marcar"
+
+msgid "price:default"
+msgstr "preço:omissão"
+
+#, php-format
+msgid "process"
+msgstr "processo"
+
+msgid "stock-high"
+msgstr "stock alto"
+
+msgid "stock-low"
+msgstr "stock baixo"
+
+msgid "stock-out"
+msgstr "fora de stock"
+
+msgid "stock-unlimited"
+msgstr "stock ilimitado"
+
+#, php-format
+msgid "summary"
+msgstr "resumo"
+
+msgid "watch"
+msgstr "acompanhar"
+
+msgid "▲ Name"
+msgstr "▲ Nome"
+
+msgid "▲ Price"
+msgstr "▲ Preço"
+
+msgid "▶"
+msgstr "▶"
+
+msgid "▶▶"
+msgstr "▶▶"
+
+msgid "▼ Name"
+msgstr "▼ Nome"
+
+msgid "▼ Price"
+msgstr "▼ Preço"
+
+msgid "◀"
+msgstr "◀"
+
+msgid "◀◀"
+msgstr "◀◀"

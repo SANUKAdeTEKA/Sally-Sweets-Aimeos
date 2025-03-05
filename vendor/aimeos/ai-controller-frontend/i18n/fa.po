@@ -1,0 +1,222 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# محمد مسعودزاده, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: aimeos-core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-26 15:48+0200\n"
+"PO-Revision-Date: 2015-07-09 20:35+0000\n"
+"Last-Translator: محمد مسعودزاده, 2021\n"
+"Language-Team: Persian (http://app.transifex.com/aimeos/aimeos-core/language/fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "%013.2F"
+msgstr "%013.2F"
+
+#, php-format
+msgid "Adding product with ID \"%1$s\" is not allowed"
+msgstr "افزودن محصول با شناسه \"%1$s\" مجاز نیست"
+
+#, php-format
+msgid "Available attribute IDs \"%1$s\" do not match the given attribute IDs \"%2$s\""
+msgstr "شناسه‌های ویژگی موجود «%1$s» با شناسه‌های مشخصه «%2$s» مطابقت ندارد"
+
+#, php-format
+msgid "Basket item at position \"%1$d\" cannot be changed"
+msgstr "مورد سبد در موقعیت \"%1$d\" قابل تغییر نیست"
+
+#, php-format
+msgid "Basket item at position \"%1$d\" cannot be deleted manually"
+msgstr "مورد سبد در موقعیت \"%1$d\" را نمی توان به صورت دستی حذف کرد"
+
+#, php-format
+msgid "Category is not available"
+msgstr "دسته بندی در دسترس نیست"
+
+#, php-format
+msgid "Class \"%1$s\" does not implement \"%2$s\""
+msgstr "کلاس \"%1$s\"  کلاس \"%2$s\"را  پیاده سازی نمیکند"
+
+#, php-format
+msgid "Class \"%1$s\" does not implement interface \"%2$s\""
+msgstr "کلاس \"%1$s\" از رابط کاربری \"%2$s\" پیاده سازی نشده است"
+
+#, php-format
+msgid "Class \"%1$s\" not available"
+msgstr "کلاس \"%1$s\" معتبر نمی‌باشد"
+
+#, php-format
+msgid "Class \"%1$s\" not found"
+msgstr "کلاس \"%1$s\" موجود نمی‌باشد"
+
+#, php-format
+msgid "Controller path is empty"
+msgstr "مسیر کنترلر خالی میباشد"
+
+#, php-format
+msgid "Coupon code \"%1$s\" is invalid"
+msgstr "کد کوپن \"%1$s\" نامعتبر است"
+
+#, php-format
+msgid "Coupon code \"%1$s\" is invalid or not available any more"
+msgstr "کد کوپن \"%1$s\" نامعتبر است یا دیگر در دسترس نیست"
+
+#, php-format
+msgid "Coupon for code \"%1$s\" is not available any more"
+msgstr "کوپن کد \"%1$s\" دیگر در دسترس نیست"
+
+#, php-format
+msgid "Domain \"%1$s\" is not supported"
+msgstr "دامنه \"%1$s\" پشتیبانی نمی شود"
+
+#, php-format
+msgid "Invalid \"%1$s\" references for product with ID \"%2$s\""
+msgstr "ارجاعات \"%1$s\" نامعتبر برای محصول با شناسه \"%2$s\""
+
+#, php-format
+msgid "Invalid \"%1$s\" references for product with ID %2$s"
+msgstr "ارجاعات \"%1$s\" نامعتبر برای محصول با شناسه %2$s"
+
+#, php-format
+msgid "Invalid address properties, please check your input"
+msgstr "ویژگی های آدرس نامعتبر است، لطفا ورودی خود را بررسی کنید"
+
+#, php-format
+msgid "Invalid characters in class name \"%1$s\""
+msgstr "کاراکترهای نا معتبر در کلاس \"%1$s\""
+
+#, php-format
+msgid "Invalid characters in controller name \"%1$s\""
+msgstr "نویسه‌های نامعتبر در نام کنترل‌کننده \"%1$s\""
+
+#, php-format
+msgid "Invalid characters in controller name \"%1$s\" in \"%2$s\""
+msgstr "نویسه‌های نامعتبر در نام کنترل‌کننده \"%1$s\" در \"%2$s\""
+
+#, php-format
+msgid "Invalid class name \"%1$s\""
+msgstr "نام کلاس \"%1$s\" معتبر نمی باشد"
+
+#, php-format
+msgid "Invalid domain \"%1$s\""
+msgstr "دامنه‌ی \"%1$s\" معتبر نمی‌باشد"
+
+#, php-format
+msgid "Invalid factory \"%1$s\""
+msgstr "کارخانه‌ی \"%1$s\" معتبر نمی‌باشد"
+
+#, php-format
+msgid "Invalid price value \"%1$s\""
+msgstr "مقدار قیمت نامعتبر \"%1$s\""
+
+#, php-format
+msgid "Invalid value for address type \"%1$s\""
+msgstr "مقدار نامعتبر برای نوع آدرس \"%1$s\""
+
+#, php-format
+msgid "List type for domain \"%1$s\" and code \"%2$s\" not found"
+msgstr "نوع فهرست دامنه \"%1$s\" و کد \"%2$s\" یافت نشد"
+
+#, php-format
+msgid "No article found for selected attributes and product ID \"%1$s\""
+msgstr "مقاله ای برای ویژگی های انتخابی و شناسه محصول \"%1$s\" یافت نشد"
+
+#, php-format
+msgid "No customer lists domain"
+msgstr "دامنه لیست مشتریان وجود ندارد"
+
+#, php-format
+msgid "No customer lists type code"
+msgstr "کد نوع لیست مشتری وجود ندارد"
+
+#, php-format
+msgid "No item for \"%1$s\" (%2$s) found"
+msgstr "هیچ موردی برای \"%1$s\" (%2$s) یافت نشد"
+
+#, php-format
+msgid "No order item for ID \"%1$s\" found"
+msgstr "هیچ مورد سفارشی برای شناسه \"%1$s\" یافت نشد"
+
+#, php-format
+msgid "No stock for product ID \"%1$s\" and type \"%2$s\" available"
+msgstr "موجودی برای شناسه محصول \"%1$s\" و نوع \"%2$s\" موجود نیست"
+
+#, php-format
+msgid "No unique article found for selected attributes and product ID \"%1$s\""
+msgstr "مقاله منحصر به فردی برای ویژگی‌های انتخابی و شناسه محصول \"%1$s\" یافت نشد"
+
+#, php-format
+msgid "Not allowed to access customer data for ID \"%1$s\""
+msgstr "اجازه دسترسی به اطلاعات مشتری برای شناسه \"%1$s\" وجود ندارد"
+
+#, php-format
+msgid "Number of coupon codes exceeds the limit"
+msgstr "تعداد کد کوپن بیش از حد می‌باشد"
+
+#, php-format
+msgid "Product item with ID \"%1$s\" not found"
+msgstr "مورد محصول با شناسه \"%1$s\" یافت نشد"
+
+#, php-format
+msgid "Requirements for coupon code \"%1$s\" aren't met"
+msgstr "الزامات کد کوپن \"%1$s\" برآورده نمی شود"
+
+#, php-format
+msgid "Service item for type \"%1$s\" and ID \"%2$s\" not found"
+msgstr "مورد سرویس برای نوع \"%1$s\" و شناسه \"%2$s\" یافت نشد"
+
+#, php-format
+msgid "Site is not available"
+msgstr "سایت در دسترس نیست"
+
+#, php-format
+msgid "Temporary limit reached"
+msgstr "به محدودیت موقت رسیده است"
+
+#, php-format
+msgid "Temporary order limit reached"
+msgstr "به محدودیت سفارش موقت رسیده است"
+
+#, php-format
+msgid "The order has already been created"
+msgstr "سفارش قبلا ایجاد شده است"
+
+#, php-format
+msgid "There are not enough products \"%1$s\" in stock"
+msgstr "محصولات \"%1$s\" کافی در انبار موجود نیست"
+
+#, php-format
+msgid "Unable to call method \"%1$s\""
+msgstr "صدا زدن متد \"%1$s\" غیرممکن می‌باشد"
+
+#, php-format
+msgid "Unable to call method \"%1$s::%2$s\""
+msgstr "امکان فراخوانی روش \"%1$s::%2$s\" وجود ندارد"
+
+#, php-format
+msgid "Unable to create provider \"%1$s\" for service with ID \"%2$s\""
+msgstr "ایجاد ارائه دهنده \"%1$s\" برای سرویس با شناسه \"%2$s\" ممکن نیست"
+
+#, php-format
+msgid "Unable to find product \"%1$s\""
+msgstr "محصول \"%1$s\" یافت نشد"
+
+#, php-format
+msgid "Unknown attributes \"%1$s\""
+msgstr "ویژگی های ناشناخته \"%1$s\""
+
+#, php-format
+msgid "You are not allowed to manage groups"
+msgstr "شما مجاز به مدیریت گروه ها نیستید"
+
+#, php-format
+msgid "You can only add a review if you have ordered a product"
+msgstr "فقط در صورتی می توانید نظر خود را اضافه کنید که محصولی را سفارش داده باشید"

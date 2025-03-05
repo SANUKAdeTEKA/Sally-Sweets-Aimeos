@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bootstrap="bootstrap.php" xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/10.0/phpunit.xsd" cacheDirectory=".phpunit.cache">
+  <source>
+    <include>
+      <directory suffix=".php">../src</directory>
+    </include>
+  </source>
+  <coverage>
+    <report>
+      <clover outputFile="coverage.xml"/>
+    </report>
+  </coverage>
+  <testsuites>
+    <testsuite name="MW suite">
+      <directory>MW/</directory>
+    </testsuite>
+    <testsuite name="MShop suite">
+      <file>MShopTest.php</file>
+      <directory>MShop/</directory>
+    </testsuite>
+    <testsuite name="MAdmin suite">
+      <file>MAdminTest.php</file>
+      <directory>MAdmin/</directory>
+    </testsuite>
+  </testsuites>
+  <logging/>
+</phpunit>

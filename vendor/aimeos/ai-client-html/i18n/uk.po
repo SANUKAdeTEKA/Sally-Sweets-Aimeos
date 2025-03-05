@@ -1,0 +1,978 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Oleksandr Kropyvko <akropivko@gmail.com>, 2021
+# Vadym Strutovskyi <vadim.strutovskii@gmail.com>, 2021
+# Włodz Mur <wm@iwpress.eu>, 2023
+# Oleksandr Kropyvko <akropivko@gmail.com>, 2021
+# Федір Вільгота <fredy31415@gmail.com>, 2019
+msgid ""
+msgstr ""
+"Project-Id-Version: aimeos-core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-12 19:06+0200\n"
+"PO-Revision-Date: 2015-07-09 20:33+0000\n"
+"Last-Translator: Włodz Mur <wm@iwpress.eu>, 2023\n"
+"Language-Team: Ukrainian (http://app.transifex.com/aimeos/aimeos-core/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#, php-format
+msgid "%1$d article"
+msgid_plural "%1$d articles"
+msgstr[0] "%1$d товар"
+msgstr[1] "%1$d товара"
+msgstr[2] "%1$d товарів"
+msgstr[3] "%1$d товарів"
+
+#, php-format
+msgid "%1$d review"
+msgid_plural "%1$d reviews"
+msgstr[0] "%1$dвідгук"
+msgstr[1] "%1$dвідгуків"
+msgstr[2] "%1$dвідгуки"
+msgstr[3] "%1$dвідгуки"
+
+#, php-format
+msgid ""
+"%1$s\n"
+"%2$s %3$s %4$s %5$s\n"
+"%6$s %7$s\n"
+"%8$s\n"
+"%9$s %10$s\n"
+"%11$s\n"
+"%12$s\n"
+"%13$s\n"
+"%14$s\n"
+"%15$s\n"
+"%16$s\n"
+"%17$s\n"
+"%18$s\n"
+msgstr "%1$s\n%2$s %3$s %4$s %5$s\n%6$s %7$s\n%8$s\n%9$s %10$s\n%11$s\n%12$s\n%13$s\n%14$s\n%15$s\n%16$s\n%17$s\n%18$s\n"
+
+#, php-format
+msgid ""
+"%1$s\n"
+"%2$s %3$s %4$s %5$s\n"
+"%6$s %7$s\n"
+"%8$s\n"
+"%9$s %10$s\n"
+"%11$s\n"
+"%12$s\n"
+"%13$s\n"
+"%14$s\n"
+"%15$s\n"
+"%16$s\n"
+"%17$s\n"
+"%18$s\n"
+"%19$s\n"
+msgstr ""
+
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#, php-format
+msgid "%1$s %2$s off"
+msgstr "знижка %1$s %2$s"
+
+#, php-format
+msgid "%1$s (%4$s%2$s%3$s)"
+msgstr ""
+
+#, php-format
+msgid "%1$s article"
+msgid_plural "%1$s articles"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#, php-format
+msgid "%1$s%3$s + %2$s%3$s"
+msgstr "%1$s%3$s + %2$s%3$s"
+
+msgid "(opens in new window)"
+msgstr ""
+
+#, php-format
+msgid "+ %1$s %2$s"
+msgstr ""
+
+#, php-format
+msgid "+ %1$s%% %2$s"
+msgstr "+ %1$s%% %2$s"
+
+#, php-format
+msgid "+ %1$s%% VAT"
+msgstr "+ %1$s%% ПДВ"
+
+msgid "+1 123 456 7890"
+msgstr "+1 123 456 7890"
+
+#, php-format
+msgid "-%1$s%%"
+msgstr "-%1$s%%"
+
+msgid "A non-recoverable error occured"
+msgstr "Сталася невиправна помилка"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Add billing address"
+msgstr "Додати платіжну адресу"
+
+msgid "Add delivery address"
+msgstr ""
+
+msgid "Add to basket"
+msgstr "Додати в кошик"
+
+msgid "Additional"
+msgstr "Номер будинку"
+
+msgid "Additional 2"
+msgstr "Поверх / Квартира"
+
+msgid "Apply"
+msgstr "Застосувати"
+
+msgid "Article"
+msgstr "Артикул"
+
+msgid "Article no."
+msgstr "Артикул"
+
+#, php-format
+msgid "At least one billing address part is missing or invalid"
+msgstr "Принаймні одна частина платіжної адреси відсутня або недійсна"
+
+#, php-format
+msgid "At least one delivery address part is missing or invalid"
+msgstr "Принаймні одна частина адреси доставки відсутня або недійсна"
+
+#, php-format
+msgid "At least one payment address part is missing or invalid"
+msgstr ""
+
+msgid "At least one product couldn't be added to the basket."
+msgstr ""
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Basket"
+msgstr "Корзина"
+
+msgid "Basket details"
+msgstr ""
+
+msgid "Basket name"
+msgstr ""
+
+msgid "Basket saved sucessfully"
+msgstr ""
+
+msgid "Billing address"
+msgstr "Платіжна адреса"
+
+#, php-format
+msgid "Billing address part \"%1$s\" is invalid"
+msgstr "Частина платіжної адреси \"%1$s\" не дійсна"
+
+#, php-format
+msgid "Billing address part \"%1$s\" is missing"
+msgstr "Частина платіжної адреси \"%1$s\" відсутня"
+
+msgid "Birthday"
+msgstr "День народження"
+
+msgid "Breadcrumb navigation"
+msgstr ""
+
+msgid "Bulk order"
+msgstr "Масове замовлення"
+
+msgid "Bundled products"
+msgstr "Пов'язаніі товари"
+
+msgid "Buy now"
+msgstr "Купити зараз"
+
+msgid "Cancel"
+msgstr "Відмінити"
+
+msgid "Categories"
+msgstr "Категорії"
+
+msgid "Change"
+msgstr "Змінити"
+
+msgid "Change address"
+msgstr ""
+
+msgid "Change billing address"
+msgstr ""
+
+msgid "Change coupons"
+msgstr ""
+
+msgid "Change delivery"
+msgstr ""
+
+msgid "Change delivery address"
+msgstr ""
+
+msgid "Change payment"
+msgstr "Смінити оплату"
+
+msgid "Change products"
+msgstr ""
+
+msgid "Characteristics"
+msgstr "Характеристики"
+
+msgid "Checkout"
+msgstr "Перейти до оформлення"
+
+msgid "City"
+msgstr "Місто"
+
+#, php-format
+msgid "Class \"%1$s\" not found"
+msgstr "Клас \"%1$s\" не знайдено"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Company"
+msgstr "Компанія"
+
+msgid "Confirmation"
+msgstr "Підтвердження"
+
+msgid "Country"
+msgstr "Країна"
+
+msgid "Coupon codes"
+msgstr "У мене є промо-код"
+
+msgid "Coupons"
+msgstr "Купони"
+
+msgid "Create a customer account for me"
+msgstr ""
+
+msgid "Created"
+msgstr "Створено"
+
+msgid "Customer account"
+msgstr "Акаунт користувача"
+
+msgid "Decrease"
+msgstr ""
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Delete item"
+msgstr ""
+
+msgid "Delivery"
+msgstr "Доставка"
+
+msgid "Delivery address"
+msgstr "Адреса доставки"
+
+#, php-format
+msgid "Delivery address deleted successfully"
+msgstr ""
+
+#, php-format
+msgid "Delivery address part \"%1$s\" is invalid"
+msgstr "Частина адреси доставки \"%1$s\" не дійсна"
+
+#, php-format
+msgid "Delivery address part \"%1$s\" is missing"
+msgstr "Частина адреси доставки \"%1$s\" відсутня"
+
+msgid "Delivery within"
+msgstr "Доставка впродовж"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Details"
+msgstr "Деталі"
+
+msgid "Don't store address"
+msgstr ""
+
+msgid "Downloads"
+msgstr "Зкачувані матеріали"
+
+msgid "E-Mail"
+msgstr "E-Mail"
+
+msgid "End date"
+msgstr "Кінцева дата"
+
+msgid "Favorite products"
+msgstr "Обрані товари"
+
+msgid "Fax"
+msgstr "Факс"
+
+msgid "Fields with an * are mandatory"
+msgstr "Позначені * поля є обов'язковими"
+
+msgid "Filter"
+msgstr ""
+
+msgid "First"
+msgstr "Перший"
+
+msgid "First name"
+msgstr "Ім'я"
+
+msgid "Found products"
+msgstr ""
+
+msgid "GB999999973"
+msgstr ""
+
+msgid "Go to page"
+msgstr ""
+
+msgid "Grid view"
+msgstr "Сітка"
+
+msgid "HH:mm"
+msgstr ""
+
+msgid "Highest price"
+msgstr ""
+
+#, php-format
+msgid ""
+"I accept the <a href=\"%1$s\" target=\"_blank\" title=\"terms and conditions"
+" (opens in new tab)\">terms and conditions</a>, <a href=\"%2$s\" "
+"target=\"_blank\" title=\"privacy policy (opens in new tab)\">privacy "
+"policy</a> and <a href=\"%3$s\" target=\"_blank\" title=\"cancellation "
+"policy (opens in new tab)\">cancellation policy</a>"
+msgstr ""
+
+#, php-format
+msgid ""
+"I accept the <a href=\"%1$s\" target=\"_blank\" title=\"terms and "
+"conditions\" alt=\"terms and conditions\">terms and conditions</a>, <a "
+"href=\"%2$s\" target=\"_blank\" title=\"privacy policy\" alt=\"privacy "
+"policy\">privacy policy</a> and <a href=\"%3$s\" target=\"_blank\" "
+"title=\"cancellation policy\" alt=\"cancellation policy\">cancellation "
+"policy</a>"
+msgstr ""
+
+msgid "If back in stock"
+msgstr "Якщо з'явиться в наявності"
+
+msgid "If price decreases"
+msgstr "Якщо знизиться ціна"
+
+#, php-format
+msgid "Incl. %1$s%% %2$s"
+msgstr ""
+
+#, php-format
+msgid "Incl. %1$s%% VAT"
+msgstr "вкл. %1$s%% ПДВ"
+
+msgid "Included rebates"
+msgstr "Застосовані знижки"
+
+msgid "Increase"
+msgstr ""
+
+msgid "Interval"
+msgstr "Інтервал"
+
+#, php-format
+msgid "Invalid characters in client name \"%1$s\""
+msgstr "Недопустимі символы в імені кліента \"%1$s\""
+
+#, php-format
+msgid "Invalid class name \"%1$s\""
+msgstr "Невірна назва класу \"%1$s\""
+
+#, php-format
+msgid "Invalid domain \"%1$s\""
+msgstr "Невірний домен \"%1$s\""
+
+msgid "Invoice"
+msgstr "Рахунок"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Last"
+msgstr "Останній"
+
+msgid "Last name"
+msgstr "Прізвище"
+
+msgid "Last seen"
+msgstr "Недавно дивились"
+
+msgid "Latest"
+msgstr "По новизні"
+
+msgid "Less"
+msgstr ""
+
+msgid "List view"
+msgstr "Список"
+
+msgid "Lowest price"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Mobile number"
+msgstr ""
+
+msgid "More"
+msgstr "Ще"
+
+msgid "More reviews"
+msgstr ""
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "New"
+msgstr "Новий"
+
+msgid "New delivery address"
+msgstr "Нова адреса доставки"
+
+msgid "Next"
+msgstr "Далі"
+
+msgid "Next order"
+msgstr ""
+
+#, php-format
+msgid ""
+"No articles found for <span class=\"searchstring\">\"%1$s\"</span>. Please "
+"try again with a different keyword."
+msgstr "Нічого не знайдено для <span class=\"searchstring\">\"%1$s\"</span>. Спробуйте ще раз із іншим ключовим словом."
+
+msgid "No order ID available in session"
+msgstr ""
+
+#, php-format
+msgid "No view available"
+msgstr "Немає доступних режимів виводу"
+
+msgid "One month"
+msgstr "Один місяць"
+
+msgid "One week"
+msgstr "Один тиджень"
+
+msgid "Open submenu"
+msgstr ""
+
+msgid "Order ID"
+msgstr "ID замовлення"
+
+msgid "Order details"
+msgstr "Деталі замовлення"
+
+msgid "Order history"
+msgstr "Історія замовлення"
+
+msgid "Order status"
+msgstr "Статус замовлення"
+
+msgid "Other customers also bought"
+msgstr "Доповнити образ"
+
+#, php-format
+msgid "Page %1$d of %2$d"
+msgstr "Сторінка %1$d з %2$d"
+
+msgid "Pay now"
+msgstr ""
+
+msgid "Payment"
+msgstr "Оплата"
+
+msgid "Payment costs"
+msgstr "Вартість оплати"
+
+msgid "Payment status"
+msgstr "Статус оплати"
+
+msgid "Percentage"
+msgstr ""
+
+msgid "Pin product"
+msgstr ""
+
+msgid "Pinned products"
+msgstr "Відмічені товари"
+
+msgid "Please accept the terms and conditions"
+msgstr "Будь ласка, прийміть умови"
+
+msgid "Please check your order"
+msgstr "Будь ласка, перевірте ваше замовлення"
+
+msgid "Please choose your delivery method"
+msgstr "Оберіть спосіб доставки, будь ласка"
+
+msgid "Please choose your payment method"
+msgstr "Оберіть спосіб оплати, будь ласка"
+
+msgid "Please enter at least three characters"
+msgstr "Будь ласка, введіть мінімім три символи"
+
+msgid "Please enter your payment details"
+msgstr ""
+
+msgid "Please select"
+msgstr "Будь ласка оберіть щось"
+
+msgid "Postal code"
+msgstr "Поштовий індекс"
+
+msgid "Previous"
+msgstr "Назад"
+
+msgid "Price"
+msgstr "Ціна"
+
+msgid "Price filter"
+msgstr ""
+
+msgid "Price range"
+msgstr ""
+
+msgid "Proceed"
+msgstr "Продовжити"
+
+msgid "Processing the payment failed"
+msgstr ""
+
+msgid "Product"
+msgstr "Товар"
+
+msgid "Product actions"
+msgstr ""
+
+msgid "Product attributes"
+msgstr ""
+
+msgid "Product categories"
+msgstr ""
+
+msgid "Product characteristics"
+msgstr ""
+
+msgid "Product description"
+msgstr ""
+
+msgid "Product downloads"
+msgstr ""
+
+msgid "Product filters"
+msgstr ""
+
+msgid "Product image"
+msgstr ""
+
+msgid "Product information"
+msgstr ""
+
+msgid "Product price"
+msgstr "Ціна товару"
+
+msgid "Product reviews"
+msgstr ""
+
+msgid "Product search"
+msgstr ""
+
+msgid "Products you might be also interested in"
+msgstr "Продукти, які можуть вас зацікавити"
+
+msgid "Qty"
+msgstr ""
+
+msgid "Quantity"
+msgstr "Кількість"
+
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgid "Reference"
+msgstr "Посилання"
+
+msgid "Relevance"
+msgstr "Відповідність"
+
+msgid "Remove"
+msgstr ""
+
+msgid "Reset"
+msgstr "Скинути"
+
+#, php-format
+msgid "Result for \"%1$s\""
+msgstr "Результат для \"%1$s\""
+
+msgid "Reviews"
+msgstr "огляд"
+
+msgid "SKU or article name"
+msgstr ""
+
+msgid "Sale"
+msgstr ""
+
+msgid "Salutation"
+msgstr "Вітання"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Saved basket removed sucessfully"
+msgstr ""
+
+msgid "Saved baskets"
+msgstr ""
+
+msgid "Search"
+msgstr "Пошук"
+
+#, php-format
+msgid "Search result for <span class=\"searchstring\">\"%1$s\"</span> (%2$d article)"
+msgid_plural ""
+"Search result for <span class=\"searchstring\">\"%1$s\"</span> (%2$d "
+"articles)"
+msgstr[0] "Результат пошуку для <span class=\"searchstring\">\"%1$s\"</span> (%2$d входження)"
+msgstr[1] "Результат пошуку для <span class=\"searchstring\">\"%1$s\"</span> (%2$d входжень)"
+msgstr[2] "Результат пошуку для <span class=\"searchstring\">\"%1$s\"</span> (%2$d входжень)"
+msgstr[3] "Результат пошуку для <span class=\"searchstring\">\"%1$s\"</span> (%2$d входжень)"
+
+msgid "Select country"
+msgstr "Виберіть країну"
+
+msgid "Select currency"
+msgstr "Виберіть валюту"
+
+msgid "Select language"
+msgstr "Виберіть мову"
+
+msgid "Select salutation"
+msgstr "Виберіть вітання"
+
+msgid "Select state"
+msgstr "Виберіть область"
+
+msgid "Share"
+msgstr ""
+
+msgid "Shipping"
+msgstr "Доставка"
+
+msgid "Show"
+msgstr "Показати"
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Sort by:"
+msgstr "Сортувати по:"
+
+msgid "Stars"
+msgstr ""
+
+msgid "State"
+msgstr "Область"
+
+msgid "Stock"
+msgstr "Запаси"
+
+#, php-format
+msgid "Stock: %1$s, %2$s"
+msgstr "Запаси: %1$s, %2$s"
+
+#, php-format
+msgid "Stock: %1$s, %2$s, back on %3$s"
+msgstr "Запаси: %1$s, %2$s, оновлення запасів %3$s"
+
+msgid "Street"
+msgstr "Вулиця"
+
+msgid "Sub-total"
+msgstr "Проміжна сумма"
+
+msgid "Submit"
+msgstr "Надіслати"
+
+msgid "Subscription ID"
+msgstr ""
+
+msgid "Subscription details"
+msgstr ""
+
+msgid "Subscriptions"
+msgstr "передплата"
+
+msgid "Suggested products"
+msgstr "Схожі моделі"
+
+msgid "Sum"
+msgstr "Сума"
+
+msgid "Supplier information"
+msgstr ""
+
+msgid "Supplier list"
+msgstr ""
+
+msgid "Suppliers"
+msgstr "Постачальники"
+
+msgid "Take a look"
+msgstr ""
+
+msgid "Telephone"
+msgstr "Телефон"
+
+msgid "Terms and conditions"
+msgstr "Правила та умови"
+
+msgid ""
+"Thank you for your order and authorizing the payment.\n"
+"An e-mail with the order details will be sent to you within the next few minutes."
+msgstr "Дякуємо за ваше замовлення і оплату\nE-mail з деталями замовлення буде надіслано протягом кількох хвилин."
+
+msgid ""
+"Thank you for your order.\n"
+"We received your payment and an e-mail with the order details will be sent to you within the next few minutes."
+msgstr "Дякуємо за ваше замовлення.\nМи отримали оплату і E-mail з деталями замовлення буде надіслано протягом кількох хвилин."
+
+msgid "Thank you for your review!"
+msgstr ""
+
+msgid ""
+"The order was canceled.\n"
+"Do you wish to retry your order?"
+msgstr "Замовлення зкасовано.\nБажаєте повторити ваше замовлення?"
+
+msgid ""
+"The payment confirmation for your order is still pending.\n"
+"You will get an e-mail as soon as the payment is authorized."
+msgstr "Підтвердження оплати вашого заповлення поки-що не отримано.\nВи отримаєте e-mail щойно оплата буде підтверджена."
+
+msgid "Three month"
+msgstr "Три місяці"
+
+msgid "Time frame"
+msgstr "Часові рамки"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Toggle fullscreen"
+msgstr ""
+
+msgid "Total"
+msgstr "Разом"
+
+msgid "Try again"
+msgstr "Спробуйте ще раз"
+
+msgid "Two weeks"
+msgstr "Два тиждні"
+
+#, php-format
+msgid "Unable to create an account: %1$s"
+msgstr ""
+
+#, php-format
+msgid "Unable to save address for customer \"%1$s\": %2$s"
+msgstr "Неможливо зберегти адресу для клієнта \"%1$s\": %2$s"
+
+msgid ""
+"Unfortunately, the payment for your order was refused.\n"
+"Do you wish to retry?"
+msgstr "На жаль, в оплаті вашого замовлення відмовили.\nВи хочете повторити спробу?"
+
+msgid "Update"
+msgstr "Оновити"
+
+msgid "Variant"
+msgstr ""
+
+msgid "Vat ID"
+msgstr "ID ПДВ"
+
+msgid "Vendor response"
+msgstr ""
+
+msgid "Watch"
+msgstr "Слідкувати"
+
+msgid "Watched products"
+msgstr "Відслідковувані товари"
+
+msgid "Web site"
+msgstr "Сайт"
+
+msgid "What do you think about the product"
+msgstr ""
+
+msgid "Y-m-d"
+msgstr "Y-m-d"
+
+msgid "YYYY-MM-DD"
+msgstr ""
+
+msgid "YYYY-MM-DD HH:mm"
+msgstr ""
+
+msgid "You are here:"
+msgstr "Ви тут:"
+
+#, php-format
+msgid "You can only save up to %1$s products as favorites"
+msgstr ""
+
+#, php-format
+msgid "You can only watch up to %1$s products"
+msgstr ""
+
+msgid "You must log in first"
+msgstr ""
+
+msgid "You will now be forwarded to the next step"
+msgstr "Перехід до наступного кроку"
+
+msgid "Your choice"
+msgstr "Ваш вибір"
+
+msgid "Your comment"
+msgstr "Ваш коментар до замовлення"
+
+msgid "Your rating"
+msgstr "Ваш рейтинг"
+
+msgid "Your reference"
+msgstr ""
+
+msgid "Your reference number"
+msgstr ""
+
+msgid "Your review"
+msgstr "Ваш відгук"
+
+msgid "Zoom in/out"
+msgstr ""
+
+#, php-format
+msgid "address"
+msgstr "Адреса"
+
+#, php-format
+msgid "delivery"
+msgstr "Доставка"
+
+msgid "favorite"
+msgstr ""
+
+#, php-format
+msgid "from %1$s"
+msgstr "від %1$s"
+
+msgid "like billing address"
+msgstr "співпадає з платіжною"
+
+msgid "new address"
+msgstr "нова адреса"
+
+msgid "none"
+msgstr "не обрано"
+
+msgid "on request"
+msgstr ""
+
+#, php-format
+msgid "payment"
+msgstr "оплата"
+
+msgid "pin"
+msgstr ""
+
+msgid "price:default"
+msgstr "ціна:початкова"
+
+#, php-format
+msgid "process"
+msgstr ""
+
+msgid "stock-high"
+msgstr "великі запаси"
+
+msgid "stock-low"
+msgstr "малі запаси"
+
+msgid "stock-out"
+msgstr "немає на складі"
+
+msgid "stock-unlimited"
+msgstr "запаси не обмежені"
+
+#, php-format
+msgid "summary"
+msgstr "Резюме"
+
+msgid "watch"
+msgstr ""
+
+msgid "▲ Name"
+msgstr "▲ Назва"
+
+msgid "▲ Price"
+msgstr "Ціна: від найвищої до найнижчої"
+
+msgid "▶"
+msgstr "▶"
+
+msgid "▶▶"
+msgstr "▶▶"
+
+msgid "▼ Name"
+msgstr "▼ Назва"
+
+msgid "▼ Price"
+msgstr "Ціна: від найнижчої до найвищої"
+
+msgid "◀"
+msgstr "◀"
+
+msgid "◀◀"
+msgstr "◀◀"
